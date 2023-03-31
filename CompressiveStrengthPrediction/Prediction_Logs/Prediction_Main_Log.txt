@@ -1,0 +1,388 @@
+2023-03-25/19:45:41		Start of Validation on files for Prediction
+2023-03-25/19:45:41		Raw Data Validaton Complete
+2023-03-25/19:45:41		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/08:29:52		Start of Validation on files for Prediction
+2023-03-26/08:29:52		Raw Data Validaton Complete
+2023-03-26/08:29:52		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/08:36:51		Start of Validation on files for Prediction
+2023-03-26/08:36:51		Raw Data Validaton Complete
+2023-03-26/08:36:51		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/08:36:51		Table Creation Completed
+2023-03-26/08:36:51		Insertion of data into table started
+2023-03-26/08:36:51		Insertion in table is completed
+2023-03-26/08:36:51		Deleting good data folder
+2023-03-26/08:36:51		Good data folder deleted
+2023-03-26/08:36:51		Moving bad files to archive and deleting bad data folder
+2023-03-26/08:36:51		Bad files moved to archive. Bad folder deleted
+2023-03-26/08:36:51		Validation operation completed
+2023-03-26/08:36:51		Extracting CSV file from table
+2023-03-26/08:39:53		Start of Validation on files for Prediction
+2023-03-26/08:39:53		Raw Data Validaton Complete
+2023-03-26/08:39:53		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/08:39:53		Table Creation Completed
+2023-03-26/08:39:53		Insertion of data into table started
+2023-03-26/08:39:53		Insertion in table is completed
+2023-03-26/08:39:53		Deleting good data folder
+2023-03-26/08:39:53		Good data folder deleted
+2023-03-26/08:39:53		Moving bad files to archive and deleting bad data folder
+2023-03-26/08:39:53		Bad files moved to archive. Bad folder deleted
+2023-03-26/08:39:53		Validation operation completed
+2023-03-26/08:39:53		Extracting CSV file from table
+2023-03-26/08:39:53		Extracting CSV file from table
+2023-03-26/08:40:43		Start of Validation on files for Prediction
+2023-03-26/08:40:43		Raw Data Validaton Complete
+2023-03-26/08:40:43		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/08:40:43		Table Creation Completed
+2023-03-26/08:40:43		Insertion of data into table started
+2023-03-26/08:40:43		Insertion in table is completed
+2023-03-26/08:40:43		Deleting good data folder
+2023-03-26/08:40:43		Good data folder deleted
+2023-03-26/08:40:43		Moving bad files to archive and deleting bad data folder
+2023-03-26/08:40:43		Bad files moved to archive. Bad folder deleted
+2023-03-26/08:40:43		Validation operation completed
+2023-03-26/08:40:43		Extracting CSV file from table
+2023-03-26/08:40:43		Extracting CSV file from table
+2023-03-26/08:40:43		End of Validation on files for Prediction
+2023-03-26/08:43:08		Start of Validation on files for Prediction
+2023-03-26/08:43:08		Raw Data Validaton Complete
+2023-03-26/08:43:08		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/08:43:08		Table Creation Completed
+2023-03-26/08:43:08		Insertion of data into table started
+2023-03-26/08:43:08		Insertion in table is completed
+2023-03-26/08:43:08		Deleting good data folder
+2023-03-26/08:43:08		Good data folder deleted
+2023-03-26/08:43:08		Moving bad files to archive and deleting bad data folder
+2023-03-26/08:43:08		Bad files moved to archive. Bad folder deleted
+2023-03-26/08:43:08		Validation operation completed
+2023-03-26/08:43:08		Extracting CSV file from table
+2023-03-26/08:43:08		Extracting CSV file from table
+2023-03-26/08:43:08		End of Validation on files for Prediction
+2023-03-26/08:49:00		Start of Validation on files for Prediction
+2023-03-26/08:49:01		Raw Data Validaton Complete
+2023-03-26/08:49:01		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/08:49:01		Table Creation Completed
+2023-03-26/08:49:01		Insertion of data into table started
+2023-03-26/08:49:01		Insertion in table is completed
+2023-03-26/08:49:01		Deleting good data folder
+2023-03-26/08:49:01		Good data folder deleted
+2023-03-26/08:49:01		Moving bad files to archive and deleting bad data folder
+2023-03-26/08:49:01		Bad files moved to archive. Bad folder deleted
+2023-03-26/08:49:01		Validation operation completed
+2023-03-26/08:49:01		Extracting CSV file from table
+2023-03-26/08:49:01		Extracting CSV file from table
+2023-03-26/08:49:01		End of Validation on files for Prediction
+2023-03-26/08:55:36		Start of Validation on files for Prediction
+2023-03-26/08:55:36		Raw Data Validaton Complete
+2023-03-26/08:55:36		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/08:55:36		Table Creation Completed
+2023-03-26/08:55:36		Insertion of data into table started
+2023-03-26/08:55:36		Insertion in table is completed
+2023-03-26/08:55:36		Deleting good data folder
+2023-03-26/08:55:36		Good data folder deleted
+2023-03-26/08:55:36		Moving bad files to archive and deleting bad data folder
+2023-03-26/08:55:36		Bad files moved to archive. Bad folder deleted
+2023-03-26/08:55:36		Validation operation completed
+2023-03-26/08:55:36		Extracting CSV file from table
+2023-03-26/08:55:36		Extracting CSV file from table
+2023-03-26/08:55:36		End of Validation on files for Prediction
+2023-03-26/09:01:47		Start of Validation on files for Prediction
+2023-03-26/09:01:47		Raw Data Validaton Complete
+2023-03-26/09:01:47		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/09:01:47		Table Creation Completed
+2023-03-26/09:01:47		Insertion of data into table started
+2023-03-26/09:01:47		Insertion in table is completed
+2023-03-26/09:01:47		Deleting good data folder
+2023-03-26/09:01:47		Good data folder deleted
+2023-03-26/09:01:47		Moving bad files to archive and deleting bad data folder
+2023-03-26/09:01:47		Bad files moved to archive. Bad folder deleted
+2023-03-26/09:01:47		Validation operation completed
+2023-03-26/09:01:47		Extracting CSV file from table
+2023-03-26/09:01:47		Extracting CSV file from table
+2023-03-26/09:01:47		End of Validation on files for Prediction
+2023-03-26/09:06:16		Start of Validation on files for Prediction
+2023-03-26/09:06:16		Raw Data Validaton Complete
+2023-03-26/09:06:16		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/09:06:16		Table Creation Completed
+2023-03-26/09:06:16		Insertion of data into table started
+2023-03-26/09:06:16		Insertion in table is completed
+2023-03-26/09:06:16		Deleting good data folder
+2023-03-26/09:06:16		Good data folder deleted
+2023-03-26/09:06:16		Moving bad files to archive and deleting bad data folder
+2023-03-26/09:06:16		Bad files moved to archive. Bad folder deleted
+2023-03-26/09:06:16		Validation operation completed
+2023-03-26/09:06:16		Extracting CSV file from table
+2023-03-26/09:06:16		Extracting CSV file from table
+2023-03-26/09:06:16		End of Validation on files for Prediction
+2023-03-26/09:06:49		Start of Validation on files for Prediction
+2023-03-26/09:06:49		Raw Data Validaton Complete
+2023-03-26/09:06:49		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/09:06:49		Table Creation Completed
+2023-03-26/09:06:49		Insertion of data into table started
+2023-03-26/09:06:49		Insertion in table is completed
+2023-03-26/09:06:49		Deleting good data folder
+2023-03-26/09:06:49		Good data folder deleted
+2023-03-26/09:06:49		Moving bad files to archive and deleting bad data folder
+2023-03-26/09:06:49		Bad files moved to archive. Bad folder deleted
+2023-03-26/09:06:49		Validation operation completed
+2023-03-26/09:06:49		Extracting CSV file from table
+2023-03-26/09:06:49		Extracting CSV file from table
+2023-03-26/09:06:49		End of Validation on files for Prediction
+2023-03-26/09:08:48		Start of Validation on files for Prediction
+2023-03-26/09:08:48		Raw Data Validaton Complete
+2023-03-26/09:08:48		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/09:08:48		Table Creation Completed
+2023-03-26/09:08:48		Insertion of data into table started
+2023-03-26/09:08:48		Insertion in table is completed
+2023-03-26/09:08:48		Deleting good data folder
+2023-03-26/09:08:48		Good data folder deleted
+2023-03-26/09:08:48		Moving bad files to archive and deleting bad data folder
+2023-03-26/09:08:48		Bad files moved to archive. Bad folder deleted
+2023-03-26/09:08:48		Validation operation completed
+2023-03-26/09:08:48		Extracting CSV file from table
+2023-03-26/09:08:48		Extracting CSV file from table
+2023-03-26/09:08:48		End of Validation on files for Prediction
+2023-03-26/09:16:21		Start of Validation on files for Prediction
+2023-03-26/09:16:21		Raw Data Validaton Complete
+2023-03-26/09:16:21		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/09:16:21		Table Creation Completed
+2023-03-26/09:16:21		Insertion of data into table started
+2023-03-26/09:16:21		Insertion in table is completed
+2023-03-26/09:16:21		Deleting good data folder
+2023-03-26/09:16:21		Good data folder deleted
+2023-03-26/09:16:21		Moving bad files to archive and deleting bad data folder
+2023-03-26/09:16:22		Bad files moved to archive. Bad folder deleted
+2023-03-26/09:16:22		Validation operation completed
+2023-03-26/09:16:22		Extracting CSV file from table
+2023-03-26/09:16:22		Extracting CSV file from table
+2023-03-26/09:16:22		End of Validation on files for Prediction
+2023-03-26/09:25:02		Start of Validation on files for Prediction
+2023-03-26/09:25:02		Raw Data Validaton Complete
+2023-03-26/09:25:02		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/09:25:02		Table Creation Completed
+2023-03-26/09:25:02		Insertion of data into table started
+2023-03-26/09:25:02		Insertion in table is completed
+2023-03-26/09:25:02		Deleting good data folder
+2023-03-26/09:25:02		Good data folder deleted
+2023-03-26/09:25:02		Moving bad files to archive and deleting bad data folder
+2023-03-26/09:25:02		Bad files moved to archive. Bad folder deleted
+2023-03-26/09:25:02		Validation operation completed
+2023-03-26/09:25:02		Extracting CSV file from table
+2023-03-26/09:25:02		Extracting CSV file from table
+2023-03-26/09:25:02		End of Validation on files for Prediction
+2023-03-26/09:26:05		Start of Validation on files for Prediction
+2023-03-26/09:26:05		Raw Data Validaton Complete
+2023-03-26/09:26:05		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/09:26:05		Table Creation Completed
+2023-03-26/09:26:05		Insertion of data into table started
+2023-03-26/09:26:05		Insertion in table is completed
+2023-03-26/09:26:05		Deleting good data folder
+2023-03-26/09:26:05		Good data folder deleted
+2023-03-26/09:26:05		Moving bad files to archive and deleting bad data folder
+2023-03-26/09:26:05		Bad files moved to archive. Bad folder deleted
+2023-03-26/09:26:05		Validation operation completed
+2023-03-26/09:26:05		Extracting CSV file from table
+2023-03-26/09:26:05		Extracting CSV file from table
+2023-03-26/09:26:05		End of Validation on files for Prediction
+2023-03-26/09:34:47		Start of Validation on files for Prediction
+2023-03-26/09:34:47		Raw Data Validaton Complete
+2023-03-26/09:34:47		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/09:34:47		Table Creation Completed
+2023-03-26/09:34:47		Insertion of data into table started
+2023-03-26/09:46:24		Start of Validation on files for Prediction
+2023-03-26/09:46:24		Raw Data Validaton Complete
+2023-03-26/09:46:24		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/09:46:24		Table Creation Completed
+2023-03-26/09:46:24		Insertion of data into table started
+2023-03-26/09:48:27		Start of Validation on files for Prediction
+2023-03-26/09:48:27		Raw Data Validaton Complete
+2023-03-26/09:48:27		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/09:48:27		Table Creation Completed
+2023-03-26/09:48:27		Insertion of data into table started
+2023-03-26/09:50:48		Start of Validation on files for Prediction
+2023-03-26/09:50:48		Raw Data Validaton Complete
+2023-03-26/09:50:48		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/09:50:48		Table Creation Completed
+2023-03-26/09:50:48		Insertion of data into table started
+2023-03-26/10:17:05		Start of Validation on files for Prediction
+2023-03-26/10:17:05		Raw Data Validaton Complete
+2023-03-26/10:17:05		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/10:17:05		Table Creation Completed
+2023-03-26/10:17:05		Insertion of data into table started
+2023-03-26/10:18:56		Start of Validation on files for Prediction
+2023-03-26/10:18:56		Raw Data Validaton Complete
+2023-03-26/10:18:56		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/10:18:56		Table Creation Completed
+2023-03-26/10:18:56		Insertion of data into table started
+2023-03-26/10:19:49		Start of Validation on files for Prediction
+2023-03-26/10:19:49		Raw Data Validaton Complete
+2023-03-26/10:19:49		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/10:19:49		Table Creation Completed
+2023-03-26/10:19:49		Insertion of data into table started
+2023-03-26/10:21:39		Start of Validation on files for Prediction
+2023-03-26/10:21:39		Raw Data Validaton Complete
+2023-03-26/10:21:39		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/10:21:39		Table Creation Completed
+2023-03-26/10:21:39		Insertion of data into table started
+2023-03-26/10:21:44		Insertion in table is completed
+2023-03-26/10:21:44		Deleting good data folder
+2023-03-26/10:21:44		Good data folder deleted
+2023-03-26/10:21:44		Moving bad files to archive and deleting bad data folder
+2023-03-26/10:21:44		Bad files moved to archive. Bad folder deleted
+2023-03-26/10:21:44		Validation operation completed
+2023-03-26/10:21:44		Extracting CSV file from table
+2023-03-26/10:21:44		Extracting CSV file from table
+2023-03-26/10:21:44		End of Validation on files for Prediction
+2023-03-26/10:32:32		Start of Validation on files for Prediction
+2023-03-26/10:32:32		Raw Data Validaton Complete
+2023-03-26/10:32:32		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/10:32:32		Table Creation Completed
+2023-03-26/10:32:32		Insertion of data into table started
+2023-03-26/10:32:37		Insertion in table is completed
+2023-03-26/10:32:37		Deleting good data folder
+2023-03-26/10:32:37		Good data folder deleted
+2023-03-26/10:32:37		Moving bad files to archive and deleting bad data folder
+2023-03-26/10:32:37		Bad files moved to archive. Bad folder deleted
+2023-03-26/10:32:37		Validation operation completed
+2023-03-26/10:32:37		Extracting CSV file from table
+2023-03-26/10:32:37		Extracting CSV file from table
+2023-03-26/10:32:37		End of Validation on files for Prediction
+2023-03-26/11:55:17		Start of Validation on files for Prediction
+2023-03-26/11:55:17		Raw Data Validaton Complete
+2023-03-26/11:55:17		Creating Prediction Database and tables on the basis of given schema
+2023-03-26/11:55:17		Table Creation Completed
+2023-03-26/11:55:17		Insertion of data into table started
+2023-03-26/11:55:21		Insertion in table is completed
+2023-03-26/11:55:21		Deleting good data folder
+2023-03-26/11:55:21		Good data folder deleted
+2023-03-26/11:55:21		Moving bad files to archive and deleting bad data folder
+2023-03-26/11:55:21		Bad files moved to archive. Bad folder deleted
+2023-03-26/11:55:21		Validation operation completed
+2023-03-26/11:55:21		Extracting CSV file from table
+2023-03-26/11:55:21		Extracting CSV file from table
+2023-03-26/11:55:21		End of Validation on files for Prediction
+2023-03-28/10:59:37		Start of Validation on files for Prediction
+2023-03-28/10:59:37		Raw Data Validaton Complete
+2023-03-28/10:59:37		Creating Prediction Database and tables on the basis of given schema
+2023-03-28/10:59:37		Table Creation Completed
+2023-03-28/10:59:37		Insertion of data into table started
+2023-03-28/10:59:40		Insertion in table is completed
+2023-03-28/10:59:40		Deleting good data folder
+2023-03-28/10:59:40		Good data folder deleted
+2023-03-28/10:59:40		Moving bad files to archive and deleting bad data folder
+2023-03-28/10:59:40		Bad files moved to archive. Bad folder deleted
+2023-03-28/10:59:40		Validation operation completed
+2023-03-28/10:59:40		Extracting CSV file from table
+2023-03-28/10:59:40		Extracting CSV file from table
+2023-03-28/10:59:40		End of Validation on files for Prediction
+2023-03-28/11:00:37		Start of Validation on files for Prediction
+2023-03-28/11:00:37		Raw Data Validaton Complete
+2023-03-28/11:00:37		Creating Prediction Database and tables on the basis of given schema
+2023-03-28/11:00:37		Table Creation Completed
+2023-03-28/11:00:37		Insertion of data into table started
+2023-03-28/11:00:41		Insertion in table is completed
+2023-03-28/11:00:41		Deleting good data folder
+2023-03-28/11:00:41		Good data folder deleted
+2023-03-28/11:00:41		Moving bad files to archive and deleting bad data folder
+2023-03-28/11:00:41		Bad files moved to archive. Bad folder deleted
+2023-03-28/11:00:41		Validation operation completed
+2023-03-28/11:00:41		Extracting CSV file from table
+2023-03-28/11:00:41		Extracting CSV file from table
+2023-03-28/11:00:41		End of Validation on files for Prediction
+2023-03-28/11:01:27		Start of Validation on files for Prediction
+2023-03-28/11:01:27		Raw Data Validaton Complete
+2023-03-28/11:01:27		Creating Prediction Database and tables on the basis of given schema
+2023-03-28/11:01:27		Table Creation Completed
+2023-03-28/11:01:27		Insertion of data into table started
+2023-03-28/11:01:31		Insertion in table is completed
+2023-03-28/11:01:31		Deleting good data folder
+2023-03-28/11:01:31		Good data folder deleted
+2023-03-28/11:01:31		Moving bad files to archive and deleting bad data folder
+2023-03-28/11:01:31		Bad files moved to archive. Bad folder deleted
+2023-03-28/11:01:31		Validation operation completed
+2023-03-28/11:01:31		Extracting CSV file from table
+2023-03-28/11:01:31		Extracting CSV file from table
+2023-03-28/11:01:31		End of Validation on files for Prediction
+2023-03-28/11:03:14		Start of Validation on files for Prediction
+2023-03-28/11:03:14		Raw Data Validaton Complete
+2023-03-28/11:03:14		Creating Prediction Database and tables on the basis of given schema
+2023-03-28/11:03:14		Table Creation Completed
+2023-03-28/11:03:14		Insertion of data into table started
+2023-03-28/11:03:18		Insertion in table is completed
+2023-03-28/11:03:18		Deleting good data folder
+2023-03-28/11:03:18		Good data folder deleted
+2023-03-28/11:03:18		Moving bad files to archive and deleting bad data folder
+2023-03-28/11:03:18		Bad files moved to archive. Bad folder deleted
+2023-03-28/11:03:18		Validation operation completed
+2023-03-28/11:03:18		Extracting CSV file from table
+2023-03-28/11:03:18		Extracting CSV file from table
+2023-03-28/11:03:18		End of Validation on files for Prediction
+2023-03-28/20:28:32		Start of Validation on files for Prediction
+2023-03-28/20:28:32		Raw Data Validaton Complete
+2023-03-28/20:28:32		Creating Prediction Database and tables on the basis of given schema
+2023-03-28/20:28:32		Table Creation Completed
+2023-03-28/20:28:32		Insertion of data into table started
+2023-03-28/20:28:36		Insertion in table is completed
+2023-03-28/20:28:36		Deleting good data folder
+2023-03-28/20:28:36		Good data folder deleted
+2023-03-28/20:28:36		Moving bad files to archive and deleting bad data folder
+2023-03-28/20:28:36		Bad files moved to archive. Bad folder deleted
+2023-03-28/20:28:36		Validation operation completed
+2023-03-28/20:28:36		Extracting CSV file from table
+2023-03-28/20:28:36		Extracting CSV file from table
+2023-03-28/20:28:36		End of Validation on files for Prediction
+2023-03-28/20:32:02		Start of Validation on files for Prediction
+2023-03-28/20:32:03		Raw Data Validaton Complete
+2023-03-28/20:32:03		Creating Prediction Database and tables on the basis of given schema
+2023-03-28/20:32:03		Table Creation Completed
+2023-03-28/20:32:03		Insertion of data into table started
+2023-03-28/20:32:06		Insertion in table is completed
+2023-03-28/20:32:06		Deleting good data folder
+2023-03-28/20:32:06		Good data folder deleted
+2023-03-28/20:32:06		Moving bad files to archive and deleting bad data folder
+2023-03-28/20:32:06		Bad files moved to archive. Bad folder deleted
+2023-03-28/20:32:06		Validation operation completed
+2023-03-28/20:32:06		Extracting CSV file from table
+2023-03-28/20:32:06		Extracting CSV file from table
+2023-03-28/20:32:06		End of Validation on files for Prediction
+2023-03-28/20:33:34		Start of Validation on files for Prediction
+2023-03-28/20:33:34		Raw Data Validaton Complete
+2023-03-28/20:33:34		Creating Prediction Database and tables on the basis of given schema
+2023-03-28/20:33:34		Table Creation Completed
+2023-03-28/20:33:34		Insertion of data into table started
+2023-03-28/20:33:38		Insertion in table is completed
+2023-03-28/20:33:38		Deleting good data folder
+2023-03-28/20:33:38		Good data folder deleted
+2023-03-28/20:33:38		Moving bad files to archive and deleting bad data folder
+2023-03-28/20:33:38		Bad files moved to archive. Bad folder deleted
+2023-03-28/20:33:38		Validation operation completed
+2023-03-28/20:33:38		Extracting CSV file from table
+2023-03-28/20:33:38		Extracting CSV file from table
+2023-03-28/20:33:38		End of Validation on files for Prediction
+2023-03-28/20:34:01		Start of Validation on files for Prediction
+2023-03-28/20:34:01		Raw Data Validaton Complete
+2023-03-28/20:34:01		Creating Prediction Database and tables on the basis of given schema
+2023-03-28/20:34:01		Table Creation Completed
+2023-03-28/20:34:01		Insertion of data into table started
+2023-03-28/20:34:05		Insertion in table is completed
+2023-03-28/20:34:05		Deleting good data folder
+2023-03-28/20:34:05		Good data folder deleted
+2023-03-28/20:34:05		Moving bad files to archive and deleting bad data folder
+2023-03-28/20:34:05		Bad files moved to archive. Bad folder deleted
+2023-03-28/20:34:05		Validation operation completed
+2023-03-28/20:34:05		Extracting CSV file from table
+2023-03-28/20:34:05		Extracting CSV file from table
+2023-03-28/20:34:05		End of Validation on files for Prediction
+2023-03-31/10:49:37		Start of Validation on files for Prediction
+2023-03-31/10:49:37		Raw Data Validaton Complete
+2023-03-31/10:49:37		Creating Prediction Database and tables on the basis of given schema
+2023-03-31/10:49:38		Table Creation Completed
+2023-03-31/10:49:38		Insertion of data into table started
+2023-03-31/10:49:43		Insertion in table is completed
+2023-03-31/10:49:43		Deleting good data folder
+2023-03-31/10:49:43		Good data folder deleted
+2023-03-31/10:49:43		Moving bad files to archive and deleting bad data folder
+2023-03-31/10:49:43		Bad files moved to archive. Bad folder deleted
+2023-03-31/10:49:43		Validation operation completed
+2023-03-31/10:49:43		Extracting CSV file from table
+2023-03-31/10:49:43		Extracting CSV file from table
+2023-03-31/10:49:43		End of Validation on files for Prediction

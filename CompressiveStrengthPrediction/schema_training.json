@@ -1,0 +1,18 @@
+{
+  "SampleFileName": "cement_strength_08012020_120000.csv",
+  "LengthOfDateStampInFile": 8,
+  "LengthOfTimeStampInFile": 6,
+  "NumberOfColumns": 9,
+  "ColName":
+  {
+    "CementComponent_1": "FLOAT",
+    "Blast Furnace Slag_Component_2": "FLOAT",
+    "Fly Ash_Component_3": "FLOAT",
+    "Water_Component_4": "FLOAT",
+    "SuperPlasticizer_Component_5": "FLOAT",
+    "Coarse Aggregate_Component_6": "FLOAT",
+    "Fine Aggregate_Component_7": "FLOAT",
+    "Age_Day": "INTEGER",
+    "Concrete_Compressive_Strength": "FLOAT"
+  }
+}

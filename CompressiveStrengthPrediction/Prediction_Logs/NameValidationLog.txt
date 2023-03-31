@@ -1,0 +1,35 @@
+2023-03-26/08:29:52		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/08:36:51		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/08:39:53		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/08:40:43		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/08:43:08		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/08:49:01		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/08:55:36		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/09:01:47		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/09:06:16		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/09:06:49		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/09:08:48		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/09:16:21		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/09:25:02		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/09:26:05		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/09:34:47		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/09:46:24		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/09:48:27		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/09:50:48		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/10:17:05		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/10:18:56		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/10:19:49		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/10:21:39		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/10:32:32		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-26/11:55:17		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-28/10:59:37		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-28/11:00:37		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-28/11:01:27		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-28/11:03:14		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-28/20:28:32		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-28/20:32:02		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-28/20:33:34		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-28/20:34:01		Invalid file name. File moved to Bad_Raw Folder AssetFaultData.xlsx
+2023-03-28/20:34:01		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv
+2023-03-31/10:49:37		Invalid file name. File moved to Bad_Raw Folder AssetFaultData.xlsx
+2023-03-31/10:49:37		Valid file name. File moved to Good_Raw_Folder cement_strength_08012020_120021.csv

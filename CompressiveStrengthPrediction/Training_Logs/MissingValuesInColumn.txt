@@ -1,0 +1,78 @@
+2023-03-25/19:46:44		Missing Values Validation Started
+2023-03-25/19:46:44		Error Occured while moving the file <class 'OSError'>
+2023-03-25/19:52:32		Missing Values Validation Started
+2023-03-25/19:52:32		Error Occured while moving the file <class 'OSError'>
+2023-03-25/19:54:01		Missing Values Validation Started
+2023-03-25/19:54:01		Error Occured while moving the file <class 'OSError'>
+2023-03-25/19:55:21		Missing Values Validation Started
+2023-03-25/19:55:21		Error Occured while moving the file <class 'OSError'>
+2023-03-25/19:56:17		Missing Values Validation Started
+2023-03-25/19:56:17		Error Occured while moving the file <class 'OSError'>
+2023-03-25/19:56:59		Missing Values Validation Started
+2023-03-25/19:56:59		Error Occured while moving the file <class 'OSError'>
+2023-03-25/19:57:55		Missing Values Validation Started
+2023-03-25/19:57:55		Error Occured while moving the file <class 'OSError'>
+2023-03-25/19:58:02		Missing Values Validation Started
+2023-03-25/19:58:02		Error Occured while moving the file <class 'OSError'>
+2023-03-25/19:58:13		Missing Values Validation Started
+2023-03-25/19:58:13		Error Occured while moving the file <class 'OSError'>
+2023-03-25/20:02:25		Missing Values Validation Started
+2023-03-25/20:02:25		Error Occured while moving the file <class 'OSError'>
+2023-03-25/20:02:46		Missing Values Validation Started
+2023-03-25/20:02:46		Error Occured while moving the file <class 'OSError'>
+2023-03-25/20:04:43		Missing Values Validation Started
+2023-03-25/20:04:43		Error Occured while moving the file <class 'OSError'>
+2023-03-25/20:06:45		Missing Values Validation Started
+2023-03-25/20:06:45		Error Occured while moving the file <class 'OSError'>
+2023-03-25/20:07:54		Missing Values Validation Started
+2023-03-25/20:07:54		Error Occured while moving the file <class 'OSError'>
+2023-03-25/20:08:13		Missing Values Validation Started
+2023-03-25/20:08:13		Error Occured while moving the file <class 'OSError'>
+2023-03-25/20:08:31		Missing Values Validation Started
+2023-03-25/20:08:31		Error Occured while moving the file <class 'OSError'>
+2023-03-25/20:15:49		Nithi Missing Values Validation Started
+2023-03-25/20:22:24		Missing Values Validation Started
+2023-03-25/20:25:13		Missing Values Validation Started
+2023-03-25/20:27:12		Missing Values Validation Started
+2023-03-25/20:29:43		Missing Values Validation Started
+2023-03-25/20:33:06		Missing Values Validation Started
+2023-03-25/20:34:55		Missing Values Validation Started
+2023-03-25/20:37:28		Missing Values Validation Started
+2023-03-25/20:41:41		Missing Values Validation Started
+2023-03-25/20:52:05		Missing Values Validation Started
+2023-03-25/21:19:59		Missing Values Validation Started
+2023-03-25/21:22:44		Missing Values Validation Started
+2023-03-25/21:28:15		Missing Values Validation Started
+2023-03-25/21:29:54		Missing Values Validation Started
+2023-03-25/21:35:45		Missing Values Validation Started
+2023-03-25/21:38:20		Missing Values Validation Started
+2023-03-25/21:44:35		Missing Values Validation Started
+2023-03-25/21:46:20		Missing Values Validation Started
+2023-03-25/21:49:38		Missing Values Validation Started
+2023-03-25/21:54:02		Missing Values Validation Started
+2023-03-25/21:55:00		Missing Values Validation Started
+2023-03-25/21:58:30		Missing Values Validation Started
+2023-03-25/21:59:28		Missing Values Validation Started
+2023-03-25/22:03:05		Missing Values Validation Started
+2023-03-25/22:04:25		Missing Values Validation Started
+2023-03-25/22:12:12		Missing Values Validation Started
+2023-03-25/22:21:44		Missing Values Validation Started
+2023-03-25/22:29:44		Missing Values Validation Started
+2023-03-25/22:31:15		Missing Values Validation Started
+2023-03-25/22:35:09		Missing Values Validation Started
+2023-03-25/22:39:11		Missing Values Validation Started
+2023-03-25/22:43:13		Missing Values Validation Started
+2023-03-25/22:51:58		Missing Values Validation Started
+2023-03-25/22:53:48		Missing Values Validation Started
+2023-03-25/22:56:33		Missing Values Validation Started
+2023-03-25/23:03:36		Missing Values Validation Started
+2023-03-25/23:09:39		Missing Values Validation Started
+2023-03-25/23:15:08		Missing Values Validation Started
+2023-03-25/23:16:27		Missing Values Validation Started
+2023-03-25/23:20:08		Missing Values Validation Started
+2023-03-26/11:36:41		Missing Values Validation Started
+2023-03-26/11:42:17		Missing Values Validation Started
+2023-03-26/11:46:45		Missing Values Validation Started
+2023-03-26/11:47:10		Missing Values Validation Started
+2023-03-26/11:50:27		Missing Values Validation Started
+2023-03-26/11:53:16		Missing Values Validation Started

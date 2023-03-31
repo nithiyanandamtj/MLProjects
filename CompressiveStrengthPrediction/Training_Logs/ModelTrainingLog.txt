@@ -1,0 +1,585 @@
+2023-03-25/20:34:55		Start of Training
+2023-03-25/20:34:55		Unsuccessful end of training
+2023-03-25/20:37:28		Start of Training
+2023-03-25/20:37:28		Unsuccessful end of training
+2023-03-25/20:41:41		Start of Training
+2023-03-25/20:41:41		Entered the Get_Data method of Data_Getter class
+2023-03-25/20:41:41		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-25/20:41:41		Entered Is_Null_Present of the Preprocessor Class
+2023-03-25/20:41:41		Finding missing values is successful. Data written to the null values file
+2023-03-25/20:41:41		Entered Separate_Label_Feature method of Preprocessor class
+2023-03-25/20:41:41		Label Sepration Unsuccessful 'DataFrame' object is not callable
+2023-03-25/20:41:41		Exited Separate_Label_Feature method
+2023-03-25/20:41:41		Unsuccessful end of training
+2023-03-25/20:52:05		Start of Training
+2023-03-25/20:52:05		Entered the Get_Data method of Data_Getter class
+2023-03-25/20:52:05		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-25/20:52:05		Entered Is_Null_Present of the Preprocessor Class
+2023-03-25/20:52:05		Finding missing values is successful. Data written to the null values file
+2023-03-25/20:52:05		Entered Separate_Label_Feature method of Preprocessor class
+2023-03-25/20:52:05		Label Sepration Unsuccessful 'DataFrame' object is not callable
+2023-03-25/20:52:05		Exited Separate_Label_Feature method
+2023-03-25/20:52:05		Unsuccessful end of training
+2023-03-25/21:19:59		Start of Training
+2023-03-25/21:19:59		Entered the Get_Data method of Data_Getter class
+2023-03-25/21:19:59		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-25/21:19:59		Entered Is_Null_Present of the Preprocessor Class
+2023-03-25/21:19:59		Finding missing values is successful. Data written to the null values file
+2023-03-25/21:19:59		Entered Separate_Label_Feature method of Preprocessor class
+2023-03-25/21:19:59		1
+2023-03-25/21:19:59		2
+2023-03-25/21:19:59		Label Seperation Unsuccessful 'DataFrame' object is not callable
+2023-03-25/21:19:59		Exited Separate_Label_Feature method
+2023-03-25/21:19:59		Unsuccessful end of training
+2023-03-25/21:59:45		Start of Training
+2023-03-25/21:59:45		Entered the Get_Data method of Data_Getter class
+2023-03-25/21:59:45		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-25/21:59:45		Entered Is_Null_Present of the Preprocessor Class
+2023-03-25/21:59:45		Finding missing values is successful. Data written to the null values file
+2023-03-25/21:59:45		1
+2023-03-25/21:59:45		Entered Separate_Label_Feature method of Preprocessor class
+2023-03-25/21:59:45		Label Seperation Unsuccessful "['Concrete_compressive_strength'] not found in axis"
+2023-03-25/21:59:45		Exited Separate_Label_Feature method
+2023-03-25/21:59:45		Unsuccessful end of training
+2023-03-25/22:04:42		Start of Training
+2023-03-25/22:04:42		Entered the Get_Data method of Data_Getter class
+2023-03-25/22:04:43		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-25/22:04:43		Entered Is_Null_Present of the Preprocessor Class
+2023-03-25/22:04:43		Finding missing values is successful. Data written to the null values file
+2023-03-25/22:04:43		1
+2023-03-25/22:04:43		Entered Separate_Label_Feature method of Preprocessor class
+2023-03-25/22:04:43		Label Seperation Unsuccessful 'DataFrame' object is not callable
+2023-03-25/22:04:43		Exited Separate_Label_Feature method
+2023-03-25/22:04:43		Unsuccessful end of training
+2023-03-25/22:31:30		Start of Training
+2023-03-25/22:31:30		Entered the Get_Data method of Data_Getter class
+2023-03-25/22:31:30		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-25/22:31:30		Entered Is_Null_Present of the Preprocessor Class
+2023-03-25/22:31:30		Finding missing values is successful. Data written to the null values file
+2023-03-25/22:31:30		1
+2023-03-25/22:31:30		Entered Separate_Label_Feature method of Preprocessor class
+2023-03-25/22:31:30		Label Seperation Unsuccessful 'DataFrame' object is not callable
+2023-03-25/22:31:30		Exited Separate_Label_Feature method
+2023-03-25/22:31:30		Unsuccessful end of training
+2023-03-25/22:35:25		Start of Training
+2023-03-25/22:35:25		Entered the Get_Data method of Data_Getter class
+2023-03-25/22:35:25		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-25/22:35:25		Entered Is_Null_Present of the Preprocessor Class
+2023-03-25/22:35:25		Finding missing values is successful. Data written to the null values file
+2023-03-25/22:35:25		1
+2023-03-25/22:35:25		Entered Separate_Label_Feature method of Preprocessor class
+2023-03-25/22:35:25		Label Seperation Successful
+2023-03-25/22:35:25		Exited Separate_Label_Feature method
+2023-03-25/22:35:25		2
+2023-03-25/22:35:25		Entered LogTransformation method in preprocessor class
+2023-03-25/22:35:25		Exited LogTransformation method in preprocessor class
+2023-03-25/22:35:25		Enterd Elbow plot method of KMeansClustering class
+2023-03-25/22:35:28		The optimum number of clusters isNone .Exited the elbow method
+2023-03-25/22:35:28		Entered the create_clusters method of KMeansClusteringClass
+2023-03-25/22:35:28		Exception occured in Create_Cluster Method in KMeansClustering calss The 'n_clusters' parameter of KMeans must be an int in the range [1, inf). Got None instead.
+2023-03-25/22:35:28		Unsuccessful end of training
+2023-03-25/22:39:26		Start of Training
+2023-03-25/22:39:26		Entered the Get_Data method of Data_Getter class
+2023-03-25/22:39:26		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-25/22:39:26		Entered Is_Null_Present of the Preprocessor Class
+2023-03-25/22:39:26		Finding missing values is successful. Data written to the null values file
+2023-03-25/22:39:26		Entered Separate_Label_Feature method of Preprocessor class
+2023-03-25/22:39:26		Label Seperation Successful
+2023-03-25/22:39:26		Exited Separate_Label_Feature method
+2023-03-25/22:39:26		Entered LogTransformation method in preprocessor class
+2023-03-25/22:39:26		Exited LogTransformation method in preprocessor class
+2023-03-25/22:39:26		Enterd Elbow plot method of KMeansClustering class
+2023-03-25/22:39:27		The optimum number of clusters is4 .Exited the elbow method
+2023-03-25/22:39:27		Entered the create_clusters method of KMeansClusteringClass
+2023-03-25/22:39:27		Exception occured in Create_Cluster Method in KMeansClustering calss 'File_Operation' object has no attribute 'save_model'
+2023-03-25/22:39:27		Unsuccessful end of training
+2023-03-25/22:43:29		Start of Training
+2023-03-25/22:43:29		Entered the Get_Data method of Data_Getter class
+2023-03-25/22:43:29		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-25/22:43:29		Entered Is_Null_Present of the Preprocessor Class
+2023-03-25/22:43:29		Finding missing values is successful. Data written to the null values file
+2023-03-25/22:43:29		Entered Separate_Label_Feature method of Preprocessor class
+2023-03-25/22:43:29		Label Seperation Successful
+2023-03-25/22:43:29		Exited Separate_Label_Feature method
+2023-03-25/22:43:29		Entered LogTransformation method in preprocessor class
+2023-03-25/22:43:29		Exited LogTransformation method in preprocessor class
+2023-03-25/22:43:29		Enterd Elbow plot method of KMeansClustering class
+2023-03-25/22:43:30		The optimum number of clusters is4 .Exited the elbow method
+2023-03-25/22:43:30		Entered the create_clusters method of KMeansClusteringClass
+2023-03-25/22:43:30		Entered the save model method of file operation class
+2023-03-25/22:43:30		Model FileKMeans saved. Exited the save mode method of file operation class
+2023-03-25/22:43:30		Successfully created4 clusters. Exited the create_cluster method
+2023-03-25/22:43:30		Unsuccessful end of training
+2023-03-25/22:52:14		Start of Training
+2023-03-25/22:52:14		Entered the Get_Data method of Data_Getter class
+2023-03-25/22:52:14		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-25/22:52:14		Entered Is_Null_Present of the Preprocessor Class
+2023-03-25/22:52:14		Finding missing values is successful. Data written to the null values file
+2023-03-25/22:52:14		Entered Separate_Label_Feature method of Preprocessor class
+2023-03-25/22:52:14		Label Seperation Successful
+2023-03-25/22:52:14		Exited Separate_Label_Feature method
+2023-03-25/22:52:14		Entered LogTransformation method in preprocessor class
+2023-03-25/22:52:15		Exited LogTransformation method in preprocessor class
+2023-03-25/22:52:15		Enterd Elbow plot method of KMeansClustering class
+2023-03-25/22:52:16		The optimum number of clusters is4 .Exited the elbow method
+2023-03-25/22:52:16		Entered the create_clusters method of KMeansClusteringClass
+2023-03-25/22:52:16		Entered the save model method of file operation class
+2023-03-25/22:52:16		Model FileKMeans saved. Exited the save mode method of file operation class
+2023-03-25/22:52:16		Successfully created4 clusters. Exited the create_cluster method
+2023-03-25/22:52:16		Unsuccessful end of training
+2023-03-25/22:54:03		Start of Training
+2023-03-25/22:54:03		Entered the Get_Data method of Data_Getter class
+2023-03-25/22:54:03		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-25/22:54:03		Entered Is_Null_Present of the Preprocessor Class
+2023-03-25/22:54:03		Finding missing values is successful. Data written to the null values file
+2023-03-25/22:54:03		Entered Separate_Label_Feature method of Preprocessor class
+2023-03-25/22:54:03		Label Seperation Successful
+2023-03-25/22:54:03		Exited Separate_Label_Feature method
+2023-03-25/22:54:03		Entered LogTransformation method in preprocessor class
+2023-03-25/22:54:03		Exited LogTransformation method in preprocessor class
+2023-03-25/22:54:03		Enterd Elbow plot method of KMeansClustering class
+2023-03-25/22:54:05		The optimum number of clusters is4 .Exited the elbow method
+2023-03-25/22:54:05		Entered the create_clusters method of KMeansClusteringClass
+2023-03-25/22:54:05		Entered the save model method of file operation class
+2023-03-25/22:54:05		Model FileKMeans saved. Exited the save mode method of file operation class
+2023-03-25/22:54:05		Successfully created4 clusters. Exited the create_cluster method
+2023-03-25/22:54:05		Entered StandardScalingData method in preprocessor class
+2023-03-25/22:54:05		Exited StandardScalingData method in preprocessor class
+2023-03-25/22:54:05		Entered StandardScalingData method in preprocessor class
+2023-03-25/22:54:05		Exited StandardScalingData method in preprocessor class
+2023-03-25/22:54:05		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-25/22:54:05		Entered the Linear Regression method of model finder class
+2023-03-25/22:54:05		Exception occured in Linear Regression method. Cannot clone object. You should provide an instance of scikit-learn estimator instead of a class.
+2023-03-25/22:54:05		Exception Occured in get best model method of the model finder class Cannot clone object. You should provide an instance of scikit-learn estimator instead of a class.
+2023-03-25/22:54:05		Unsuccessful end of training
+2023-03-25/22:56:50		Start of Training
+2023-03-25/22:56:50		Entered the Get_Data method of Data_Getter class
+2023-03-25/22:56:50		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-25/22:56:50		Entered Is_Null_Present of the Preprocessor Class
+2023-03-25/22:56:50		Finding missing values is successful. Data written to the null values file
+2023-03-25/22:56:50		Entered Separate_Label_Feature method of Preprocessor class
+2023-03-25/22:56:50		Label Seperation Successful
+2023-03-25/22:56:50		Exited Separate_Label_Feature method
+2023-03-25/22:56:50		Entered LogTransformation method in preprocessor class
+2023-03-25/22:56:50		Exited LogTransformation method in preprocessor class
+2023-03-25/22:56:50		Enterd Elbow plot method of KMeansClustering class
+2023-03-25/22:56:51		The optimum number of clusters is4 .Exited the elbow method
+2023-03-25/22:56:51		Entered the create_clusters method of KMeansClusteringClass
+2023-03-25/22:56:51		Entered the save model method of file operation class
+2023-03-25/22:56:52		Model FileKMeans saved. Exited the save mode method of file operation class
+2023-03-25/22:56:52		Successfully created4 clusters. Exited the create_cluster method
+2023-03-25/22:56:52		Entered StandardScalingData method in preprocessor class
+2023-03-25/22:56:52		Exited StandardScalingData method in preprocessor class
+2023-03-25/22:56:52		Entered StandardScalingData method in preprocessor class
+2023-03-25/22:56:52		Exited StandardScalingData method in preprocessor class
+2023-03-25/22:56:52		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-25/22:56:52		Entered the Linear Regression method of model finder class
+2023-03-25/22:56:52		Exception occured in Linear Regression method. Cannot clone object. You should provide an instance of scikit-learn estimator instead of a class.
+2023-03-25/22:56:52		Exception Occured in get best model method of the model finder class Cannot clone object. You should provide an instance of scikit-learn estimator instead of a class.
+2023-03-25/22:56:52		Unsuccessful end of training
+2023-03-25/23:03:52		Start of Training
+2023-03-25/23:03:52		Entered the Get_Data method of Data_Getter class
+2023-03-25/23:03:52		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-25/23:03:52		Entered Is_Null_Present of the Preprocessor Class
+2023-03-25/23:03:52		Finding missing values is successful. Data written to the null values file
+2023-03-25/23:03:52		Entered Separate_Label_Feature method of Preprocessor class
+2023-03-25/23:03:52		Label Seperation Successful
+2023-03-25/23:03:52		Exited Separate_Label_Feature method
+2023-03-25/23:03:52		Entered LogTransformation method in preprocessor class
+2023-03-25/23:03:52		Exited LogTransformation method in preprocessor class
+2023-03-25/23:03:52		Enterd Elbow plot method of KMeansClustering class
+2023-03-25/23:03:54		The optimum number of clusters is4 .Exited the elbow method
+2023-03-25/23:03:54		Entered the create_clusters method of KMeansClusteringClass
+2023-03-25/23:03:54		Entered the save model method of file operation class
+2023-03-25/23:03:54		Model FileKMeans saved. Exited the save mode method of file operation class
+2023-03-25/23:03:54		Successfully created4 clusters. Exited the create_cluster method
+2023-03-25/23:03:54		Entered StandardScalingData method in preprocessor class
+2023-03-25/23:03:54		Exited StandardScalingData method in preprocessor class
+2023-03-25/23:03:54		Entered StandardScalingData method in preprocessor class
+2023-03-25/23:03:54		Exited StandardScalingData method in preprocessor class
+2023-03-25/23:03:54		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-25/23:03:54		Entered the Linear Regression method of model finder class
+2023-03-25/23:03:54		Exception occured in Linear Regression method. Cannot clone object. You should provide an instance of scikit-learn estimator instead of a class.
+2023-03-25/23:03:54		Exception Occured in get best model method of the model finder class Cannot clone object. You should provide an instance of scikit-learn estimator instead of a class.
+2023-03-25/23:03:54		Unsuccessful end of training
+2023-03-25/23:09:54		Start of Training
+2023-03-25/23:09:54		Entered the Get_Data method of Data_Getter class
+2023-03-25/23:09:54		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-25/23:09:54		Entered Is_Null_Present of the Preprocessor Class
+2023-03-25/23:09:54		Finding missing values is successful. Data written to the null values file
+2023-03-25/23:09:54		Entered Separate_Label_Feature method of Preprocessor class
+2023-03-25/23:09:54		Label Seperation Successful
+2023-03-25/23:09:54		Exited Separate_Label_Feature method
+2023-03-25/23:09:54		Entered LogTransformation method in preprocessor class
+2023-03-25/23:09:54		Exited LogTransformation method in preprocessor class
+2023-03-25/23:09:54		Enterd Elbow plot method of KMeansClustering class
+2023-03-25/23:09:55		The optimum number of clusters is4 .Exited the elbow method
+2023-03-25/23:09:55		Entered the create_clusters method of KMeansClusteringClass
+2023-03-25/23:09:55		Entered the save model method of file operation class
+2023-03-25/23:09:55		Model FileKMeans saved. Exited the save mode method of file operation class
+2023-03-25/23:09:55		Successfully created4 clusters. Exited the create_cluster method
+2023-03-25/23:09:55		Entered StandardScalingData method in preprocessor class
+2023-03-25/23:09:55		Exited StandardScalingData method in preprocessor class
+2023-03-25/23:09:55		Entered StandardScalingData method in preprocessor class
+2023-03-25/23:09:55		Exited StandardScalingData method in preprocessor class
+2023-03-25/23:09:55		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-25/23:09:55		Entered the Linear Regression method of model finder class
+2023-03-25/23:09:55		Exception occured in Linear Regression method. Invalid parameter 'normalize' for estimator LinearRegression(). Valid parameters are: ['copy_X', 'fit_intercept', 'n_jobs', 'positive'].
+2023-03-25/23:09:55		Exception Occured in get best model method of the model finder class Invalid parameter 'normalize' for estimator LinearRegression(). Valid parameters are: ['copy_X', 'fit_intercept', 'n_jobs', 'positive'].
+2023-03-25/23:09:55		Unsuccessful end of training
+2023-03-25/23:15:24		Start of Training
+2023-03-25/23:15:24		Entered the Get_Data method of Data_Getter class
+2023-03-25/23:15:24		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-25/23:15:24		Entered Is_Null_Present of the Preprocessor Class
+2023-03-25/23:15:24		Finding missing values is successful. Data written to the null values file
+2023-03-25/23:15:24		Entered Separate_Label_Feature method of Preprocessor class
+2023-03-25/23:15:24		Label Seperation Successful
+2023-03-25/23:15:24		Exited Separate_Label_Feature method
+2023-03-25/23:15:24		Entered LogTransformation method in preprocessor class
+2023-03-25/23:15:24		Exited LogTransformation method in preprocessor class
+2023-03-25/23:15:24		Enterd Elbow plot method of KMeansClustering class
+2023-03-25/23:15:26		The optimum number of clusters is4 .Exited the elbow method
+2023-03-25/23:15:26		Entered the create_clusters method of KMeansClusteringClass
+2023-03-25/23:15:26		Entered the save model method of file operation class
+2023-03-25/23:15:26		Model FileKMeans saved. Exited the save mode method of file operation class
+2023-03-25/23:15:26		Successfully created4 clusters. Exited the create_cluster method
+2023-03-25/23:15:26		Entered StandardScalingData method in preprocessor class
+2023-03-25/23:15:26		Exited StandardScalingData method in preprocessor class
+2023-03-25/23:15:26		Entered StandardScalingData method in preprocessor class
+2023-03-25/23:15:26		Exited StandardScalingData method in preprocessor class
+2023-03-25/23:15:26		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-25/23:15:26		Entered the Linear Regression method of model finder class
+2023-03-25/23:15:26		Exception occured in Linear Regression method. Invalid parameter 'normalize' for estimator LinearRegression(). Valid parameters are: ['copy_X', 'fit_intercept', 'n_jobs', 'positive'].
+2023-03-25/23:15:26		Exception Occured in get best model method of the model finder class Invalid parameter 'normalize' for estimator LinearRegression(). Valid parameters are: ['copy_X', 'fit_intercept', 'n_jobs', 'positive'].
+2023-03-25/23:15:26		Unsuccessful end of training
+2023-03-25/23:16:43		Start of Training
+2023-03-25/23:16:43		Entered the Get_Data method of Data_Getter class
+2023-03-25/23:16:43		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-25/23:16:43		Entered Is_Null_Present of the Preprocessor Class
+2023-03-25/23:16:43		Finding missing values is successful. Data written to the null values file
+2023-03-25/23:16:43		Entered Separate_Label_Feature method of Preprocessor class
+2023-03-25/23:16:43		Label Seperation Successful
+2023-03-25/23:16:43		Exited Separate_Label_Feature method
+2023-03-25/23:16:43		Entered LogTransformation method in preprocessor class
+2023-03-25/23:16:43		Exited LogTransformation method in preprocessor class
+2023-03-25/23:16:43		Enterd Elbow plot method of KMeansClustering class
+2023-03-25/23:16:45		The optimum number of clusters is4 .Exited the elbow method
+2023-03-25/23:16:45		Entered the create_clusters method of KMeansClusteringClass
+2023-03-25/23:16:45		Entered the save model method of file operation class
+2023-03-25/23:16:45		Model FileKMeans saved. Exited the save mode method of file operation class
+2023-03-25/23:16:45		Successfully created4 clusters. Exited the create_cluster method
+2023-03-25/23:16:45		Entered StandardScalingData method in preprocessor class
+2023-03-25/23:16:45		Exited StandardScalingData method in preprocessor class
+2023-03-25/23:16:45		Entered StandardScalingData method in preprocessor class
+2023-03-25/23:16:45		Exited StandardScalingData method in preprocessor class
+2023-03-25/23:16:45		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-25/23:16:45		Entered the Linear Regression method of model finder class
+2023-03-25/23:16:45		Linear Regression best parameters {'copy_X': True, 'fit_intercept': True} .Exited Linear Regression Method of Model finder class
+2023-03-25/23:16:45		Entered the Random Forest method of model finder class
+2023-03-25/23:16:58		Random Forest Regress Best Params{'bootstrap': False, 'max_features': 'auto', 'min_samples_split': 2, 'n_estimators': 10} Exited Random Forest method from Model finder class
+2023-03-25/23:16:58		Unsuccessful end of training
+2023-03-25/23:20:25		Start of Training
+2023-03-25/23:20:25		Entered the Get_Data method of Data_Getter class
+2023-03-25/23:20:25		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-25/23:20:25		Entered Is_Null_Present of the Preprocessor Class
+2023-03-25/23:20:25		Finding missing values is successful. Data written to the null values file
+2023-03-25/23:20:25		Entered Separate_Label_Feature method of Preprocessor class
+2023-03-25/23:20:25		Label Seperation Successful
+2023-03-25/23:20:25		Exited Separate_Label_Feature method
+2023-03-25/23:20:25		Entered LogTransformation method in preprocessor class
+2023-03-25/23:20:25		Exited LogTransformation method in preprocessor class
+2023-03-25/23:20:25		Enterd Elbow plot method of KMeansClustering class
+2023-03-25/23:20:27		The optimum number of clusters is4 .Exited the elbow method
+2023-03-25/23:20:27		Entered the create_clusters method of KMeansClusteringClass
+2023-03-25/23:20:27		Entered the save model method of file operation class
+2023-03-25/23:20:27		Model FileKMeans saved. Exited the save mode method of file operation class
+2023-03-25/23:20:27		Successfully created4 clusters. Exited the create_cluster method
+2023-03-25/23:20:27		Entered StandardScalingData method in preprocessor class
+2023-03-25/23:20:27		Exited StandardScalingData method in preprocessor class
+2023-03-25/23:20:27		Entered StandardScalingData method in preprocessor class
+2023-03-25/23:20:27		Exited StandardScalingData method in preprocessor class
+2023-03-25/23:20:27		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-25/23:20:27		Entered the Linear Regression method of model finder class
+2023-03-25/23:20:27		Linear Regression best parameters {'copy_X': True, 'fit_intercept': True} .Exited Linear Regression Method of Model finder class
+2023-03-25/23:20:27		Entered the Random Forest method of model finder class
+2023-03-25/23:20:41		Random Forest Regress Best Params{'bootstrap': False, 'max_features': 'auto', 'min_samples_split': 2, 'n_estimators': 10} Exited Random Forest method from Model finder class
+2023-03-25/23:20:41		Entered the save model method of file operation class
+2023-03-25/23:20:41		Model FileRandomForestRegressor2 saved. Exited the save mode method of file operation class
+2023-03-25/23:20:41		Entered StandardScalingData method in preprocessor class
+2023-03-25/23:20:41		Exited StandardScalingData method in preprocessor class
+2023-03-25/23:20:41		Entered StandardScalingData method in preprocessor class
+2023-03-25/23:20:41		Exited StandardScalingData method in preprocessor class
+2023-03-25/23:20:41		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-25/23:20:41		Entered the Linear Regression method of model finder class
+2023-03-25/23:20:41		Linear Regression best parameters {'copy_X': True, 'fit_intercept': True} .Exited Linear Regression Method of Model finder class
+2023-03-25/23:20:41		Entered the Random Forest method of model finder class
+2023-03-25/23:20:58		Random Forest Regress Best Params{'bootstrap': True, 'max_features': 'auto', 'min_samples_split': 2, 'n_estimators': 20} Exited Random Forest method from Model finder class
+2023-03-25/23:20:58		Entered the save model method of file operation class
+2023-03-25/23:20:58		Model FileRandomForestRegressor0 saved. Exited the save mode method of file operation class
+2023-03-25/23:20:58		Entered StandardScalingData method in preprocessor class
+2023-03-25/23:20:58		Exited StandardScalingData method in preprocessor class
+2023-03-25/23:20:58		Entered StandardScalingData method in preprocessor class
+2023-03-25/23:20:58		Exited StandardScalingData method in preprocessor class
+2023-03-25/23:20:58		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-25/23:20:58		Entered the Linear Regression method of model finder class
+2023-03-25/23:20:58		Linear Regression best parameters {'copy_X': True, 'fit_intercept': True} .Exited Linear Regression Method of Model finder class
+2023-03-25/23:20:58		Entered the Random Forest method of model finder class
+2023-03-25/23:21:13		Random Forest Regress Best Params{'bootstrap': False, 'max_features': 'auto', 'min_samples_split': 2, 'n_estimators': 10} Exited Random Forest method from Model finder class
+2023-03-25/23:21:13		Entered the save model method of file operation class
+2023-03-25/23:21:13		Model FileRandomForestRegressor3 saved. Exited the save mode method of file operation class
+2023-03-25/23:21:13		Entered StandardScalingData method in preprocessor class
+2023-03-25/23:21:13		Exited StandardScalingData method in preprocessor class
+2023-03-25/23:21:13		Entered StandardScalingData method in preprocessor class
+2023-03-25/23:21:13		Exited StandardScalingData method in preprocessor class
+2023-03-25/23:21:13		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-25/23:21:13		Entered the Linear Regression method of model finder class
+2023-03-25/23:21:13		Linear Regression best parameters {'copy_X': True, 'fit_intercept': True} .Exited Linear Regression Method of Model finder class
+2023-03-25/23:21:13		Entered the Random Forest method of model finder class
+2023-03-25/23:21:28		Random Forest Regress Best Params{'bootstrap': True, 'max_features': 'sqrt', 'min_samples_split': 2, 'n_estimators': 30} Exited Random Forest method from Model finder class
+2023-03-25/23:21:28		Entered the save model method of file operation class
+2023-03-25/23:21:28		Model FileRandomForestRegressor1 saved. Exited the save mode method of file operation class
+2023-03-25/23:21:28		Successful end of training
+2023-03-26/11:36:57		Start of Training
+2023-03-26/11:36:57		Entered the Get_Data method of Data_Getter class
+2023-03-26/11:36:57		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-26/11:36:57		Entered Is_Null_Present of the Preprocessor Class
+2023-03-26/11:36:57		Finding missing values is successful. Data written to the null values file
+2023-03-26/11:36:57		Entered Separate_Label_Feature method of Preprocessor class
+2023-03-26/11:36:57		Label Seperation Successful
+2023-03-26/11:36:57		Exited Separate_Label_Feature method
+2023-03-26/11:36:57		Entered LogTransformation method in preprocessor class
+2023-03-26/11:36:57		Exited LogTransformation method in preprocessor class
+2023-03-26/11:36:57		Enterd Elbow plot method of KMeansClustering class
+2023-03-26/11:37:00		The optimum number of clusters is4 .Exited the elbow method
+2023-03-26/11:37:00		Entered the create_clusters method of KMeansClusteringClass
+2023-03-26/11:37:00		Entered the save model method of file operation class
+2023-03-26/11:37:00		Model FileKMeans saved. Exited the save mode method of file operation class
+2023-03-26/11:37:00		Successfully created4 clusters. Exited the create_cluster method
+2023-03-26/11:37:00		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:37:00		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:37:00		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:37:00		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:37:00		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-26/11:37:00		Entered the Linear Regression method of model finder class
+2023-03-26/11:37:00		Linear Regression best parameters {'copy_X': True, 'fit_intercept': True} .Exited Linear Regression Method of Model finder class
+2023-03-26/11:37:00		Entered the Random Forest method of model finder class
+2023-03-26/11:37:15		Random Forest Regress Best Params{'bootstrap': False, 'max_features': 'auto', 'min_samples_split': 2, 'n_estimators': 10} Exited Random Forest method from Model finder class
+2023-03-26/11:37:15		Entered the save model method of file operation class
+2023-03-26/11:37:15		Model FileRandomForestRegressor2 saved. Exited the save mode method of file operation class
+2023-03-26/11:37:15		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:37:15		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:37:15		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:37:15		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:37:15		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-26/11:37:15		Entered the Linear Regression method of model finder class
+2023-03-26/11:37:15		Linear Regression best parameters {'copy_X': True, 'fit_intercept': True} .Exited Linear Regression Method of Model finder class
+2023-03-26/11:37:15		Entered the Random Forest method of model finder class
+2023-03-26/11:37:34		Random Forest Regress Best Params{'bootstrap': True, 'max_features': 'sqrt', 'min_samples_split': 4, 'n_estimators': 10} Exited Random Forest method from Model finder class
+2023-03-26/11:37:34		Entered the save model method of file operation class
+2023-03-26/11:37:34		Model FileRandomForestRegressor1 saved. Exited the save mode method of file operation class
+2023-03-26/11:37:34		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:37:34		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:37:34		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:37:34		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:37:34		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-26/11:37:34		Entered the Linear Regression method of model finder class
+2023-03-26/11:37:34		Linear Regression best parameters {'copy_X': True, 'fit_intercept': True} .Exited Linear Regression Method of Model finder class
+2023-03-26/11:37:34		Entered the Random Forest method of model finder class
+2023-03-26/11:37:50		Random Forest Regress Best Params{'bootstrap': False, 'max_features': 'auto', 'min_samples_split': 2, 'n_estimators': 10} Exited Random Forest method from Model finder class
+2023-03-26/11:37:50		Entered the save model method of file operation class
+2023-03-26/11:37:50		Model FileLinearRegression0 saved. Exited the save mode method of file operation class
+2023-03-26/11:37:50		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:37:50		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:37:50		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:37:50		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:37:50		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-26/11:37:50		Entered the Linear Regression method of model finder class
+2023-03-26/11:37:50		Linear Regression best parameters {'copy_X': True, 'fit_intercept': True} .Exited Linear Regression Method of Model finder class
+2023-03-26/11:37:50		Entered the Random Forest method of model finder class
+2023-03-26/11:38:05		Random Forest Regress Best Params{'bootstrap': True, 'max_features': 'auto', 'min_samples_split': 4, 'n_estimators': 10} Exited Random Forest method from Model finder class
+2023-03-26/11:38:05		Entered the save model method of file operation class
+2023-03-26/11:38:05		Model FileRandomForestRegressor3 saved. Exited the save mode method of file operation class
+2023-03-26/11:38:05		Successful end of training
+2023-03-26/11:42:33		Start of Training
+2023-03-26/11:42:33		Entered the Get_Data method of Data_Getter class
+2023-03-26/11:42:33		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-26/11:42:33		Entered Is_Null_Present of the Preprocessor Class
+2023-03-26/11:42:33		Finding missing values is successful. Data written to the null values file
+2023-03-26/11:42:33		Entered Separate_Label_Feature method of Preprocessor class
+2023-03-26/11:42:33		Label Seperation Successful
+2023-03-26/11:42:33		Exited Separate_Label_Feature method
+2023-03-26/11:42:33		Entered LogTransformation method in preprocessor class
+2023-03-26/11:42:33		Exited LogTransformation method in preprocessor class
+2023-03-26/11:42:33		Enterd Elbow plot method of KMeansClustering class
+2023-03-26/11:42:35		The optimum number of clusters is4 .Exited the elbow method
+2023-03-26/11:42:35		Entered the create_clusters method of KMeansClusteringClass
+2023-03-26/11:42:35		Entered the save model method of file operation class
+2023-03-26/11:42:35		Model FileKMeans saved. Exited the save mode method of file operation class
+2023-03-26/11:42:35		Successfully created4 clusters. Exited the create_cluster method
+2023-03-26/11:42:35		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:42:35		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:42:35		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:42:35		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:42:35		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-26/11:42:35		Entered the Linear Regression method of model finder class
+2023-03-26/11:42:35		Linear Regression best parameters {'copy_X': True, 'fit_intercept': True} .Exited Linear Regression Method of Model finder class
+2023-03-26/11:42:35		Entered the Random Forest method of model finder class
+2023-03-26/11:42:50		Random Forest Regress Best Params{'bootstrap': False, 'max_features': 'auto', 'min_samples_split': 2, 'n_estimators': 10} Exited Random Forest method from Model finder class
+2023-03-26/11:42:50		Entered the save model method of file operation class
+2023-03-26/11:42:50		Model FileRandomForestRegressor2 saved. Exited the save mode method of file operation class
+2023-03-26/11:42:50		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:42:50		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:42:50		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:42:50		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:42:50		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-26/11:42:50		Entered the Linear Regression method of model finder class
+2023-03-26/11:42:50		Linear Regression best parameters {'copy_X': True, 'fit_intercept': True} .Exited Linear Regression Method of Model finder class
+2023-03-26/11:42:50		Entered the Random Forest method of model finder class
+2023-03-26/11:43:08		Random Forest Regress Best Params{'bootstrap': True, 'max_features': 'auto', 'min_samples_split': 8, 'n_estimators': 20} Exited Random Forest method from Model finder class
+2023-03-26/11:43:08		Entered the save model method of file operation class
+2023-03-26/11:43:08		Model FileRandomForestRegressor3 saved. Exited the save mode method of file operation class
+2023-03-26/11:43:08		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:43:08		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:43:08		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:43:08		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:43:08		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-26/11:43:08		Entered the Linear Regression method of model finder class
+2023-03-26/11:43:08		Linear Regression best parameters {'copy_X': True, 'fit_intercept': True} .Exited Linear Regression Method of Model finder class
+2023-03-26/11:43:08		Entered the Random Forest method of model finder class
+2023-03-26/11:43:25		Random Forest Regress Best Params{'bootstrap': False, 'max_features': 'auto', 'min_samples_split': 2, 'n_estimators': 10} Exited Random Forest method from Model finder class
+2023-03-26/11:43:25		Entered the save model method of file operation class
+2023-03-26/11:43:25		Model FileLinearRegression0 saved. Exited the save mode method of file operation class
+2023-03-26/11:43:25		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:43:25		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:43:25		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:43:25		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:43:25		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-26/11:43:25		Entered the Linear Regression method of model finder class
+2023-03-26/11:43:25		Linear Regression best parameters {'copy_X': True, 'fit_intercept': True} .Exited Linear Regression Method of Model finder class
+2023-03-26/11:43:25		Entered the Random Forest method of model finder class
+2023-03-26/11:43:41		Random Forest Regress Best Params{'bootstrap': True, 'max_features': 'auto', 'min_samples_split': 4, 'n_estimators': 30} Exited Random Forest method from Model finder class
+2023-03-26/11:43:41		Entered the save model method of file operation class
+2023-03-26/11:43:41		Model FileRandomForestRegressor1 saved. Exited the save mode method of file operation class
+2023-03-26/11:43:41		Successful end of training
+2023-03-26/11:47:27		Start of Training
+2023-03-26/11:47:27		Entered the Get_Data method of Data_Getter class
+2023-03-26/11:47:27		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-26/11:47:27		Entered Is_Null_Present of the Preprocessor Class
+2023-03-26/11:47:27		Finding missing values is successful. Data written to the null values file
+2023-03-26/11:47:27		Entered Separate_Label_Feature method of Preprocessor class
+2023-03-26/11:47:27		Label Seperation Successful
+2023-03-26/11:47:27		Exited Separate_Label_Feature method
+2023-03-26/11:47:27		Entered LogTransformation method in preprocessor class
+2023-03-26/11:47:27		Exited LogTransformation method in preprocessor class
+2023-03-26/11:47:27		Enterd Elbow plot method of KMeansClustering class
+2023-03-26/11:47:29		The optimum number of clusters is4 .Exited the elbow method
+2023-03-26/11:47:29		Entered the create_clusters method of KMeansClusteringClass
+2023-03-26/11:47:29		Entered the save model method of file operation class
+2023-03-26/11:47:29		Model FileKMeans saved. Exited the save mode method of file operation class
+2023-03-26/11:47:29		Successfully created4 clusters. Exited the create_cluster method
+2023-03-26/11:47:29		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:47:29		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:47:29		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:47:29		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:47:29		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-26/11:47:29		Entered the Linear Regression method of model finder class
+2023-03-26/11:47:29		Linear Regression best parameters {'copy_X': True, 'fit_intercept': True} .Exited Linear Regression Method of Model finder class
+2023-03-26/11:47:29		Entered the Random Forest method of model finder class
+2023-03-26/11:47:37		Random Forest Regress Best Params{'bootstrap': False, 'max_features': 'log2', 'min_samples_split': 2, 'n_estimators': 30} Exited Random Forest method from Model finder class
+2023-03-26/11:47:37		Entered the save model method of file operation class
+2023-03-26/11:47:37		Model FileRandomForestRegressor2 saved. Exited the save mode method of file operation class
+2023-03-26/11:47:37		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:47:37		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:47:37		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:47:37		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:47:37		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-26/11:47:37		Entered the Linear Regression method of model finder class
+2023-03-26/11:47:37		Linear Regression best parameters {'copy_X': True, 'fit_intercept': True} .Exited Linear Regression Method of Model finder class
+2023-03-26/11:47:37		Entered the Random Forest method of model finder class
+2023-03-26/11:47:47		Random Forest Regress Best Params{'bootstrap': False, 'max_features': 'log2', 'min_samples_split': 2, 'n_estimators': 20} Exited Random Forest method from Model finder class
+2023-03-26/11:47:47		Entered the save model method of file operation class
+2023-03-26/11:47:47		Model FileRandomForestRegressor0 saved. Exited the save mode method of file operation class
+2023-03-26/11:47:47		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:47:47		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:47:47		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:47:47		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:47:47		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-26/11:47:47		Entered the Linear Regression method of model finder class
+2023-03-26/11:47:47		Linear Regression best parameters {'copy_X': True, 'fit_intercept': True} .Exited Linear Regression Method of Model finder class
+2023-03-26/11:47:47		Entered the Random Forest method of model finder class
+2023-03-26/11:47:55		Random Forest Regress Best Params{'bootstrap': False, 'max_features': 'log2', 'min_samples_split': 2, 'n_estimators': 20} Exited Random Forest method from Model finder class
+2023-03-26/11:47:55		Entered the save model method of file operation class
+2023-03-26/11:47:55		Model FileRandomForestRegressor1 saved. Exited the save mode method of file operation class
+2023-03-26/11:47:55		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:47:55		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:47:55		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:47:55		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:47:55		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-26/11:47:55		Entered the Linear Regression method of model finder class
+2023-03-26/11:47:55		Linear Regression best parameters {'copy_X': True, 'fit_intercept': True} .Exited Linear Regression Method of Model finder class
+2023-03-26/11:47:55		Entered the Random Forest method of model finder class
+2023-03-26/11:48:04		Random Forest Regress Best Params{'bootstrap': False, 'max_features': 'log2', 'min_samples_split': 2, 'n_estimators': 30} Exited Random Forest method from Model finder class
+2023-03-26/11:48:04		Entered the save model method of file operation class
+2023-03-26/11:48:04		Model FileRandomForestRegressor3 saved. Exited the save mode method of file operation class
+2023-03-26/11:48:04		Successful end of training
+2023-03-26/11:53:33		Start of Training
+2023-03-26/11:53:33		Entered the Get_Data method of Data_Getter class
+2023-03-26/11:53:33		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-26/11:53:33		Entered Is_Null_Present of the Preprocessor Class
+2023-03-26/11:53:33		Finding missing values is successful. Data written to the null values file
+2023-03-26/11:53:33		Entered Separate_Label_Feature method of Preprocessor class
+2023-03-26/11:53:33		Label Seperation Successful
+2023-03-26/11:53:33		Exited Separate_Label_Feature method
+2023-03-26/11:53:33		Entered LogTransformation method in preprocessor class
+2023-03-26/11:53:33		Exited LogTransformation method in preprocessor class
+2023-03-26/11:53:33		Enterd Elbow plot method of KMeansClustering class
+2023-03-26/11:53:34		The optimum number of clusters is4 .Exited the elbow method
+2023-03-26/11:53:34		Entered the create_clusters method of KMeansClusteringClass
+2023-03-26/11:53:34		Entered the save model method of file operation class
+2023-03-26/11:53:34		Model FileKMeans saved. Exited the save mode method of file operation class
+2023-03-26/11:53:34		Successfully created4 clusters. Exited the create_cluster method
+2023-03-26/11:53:34		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:53:34		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:53:34		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:53:34		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:53:34		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-26/11:53:34		Entered the Linear Regression method of model finder class
+2023-03-26/11:53:34		Linear Regression best parameters {'copy_X': True, 'fit_intercept': True} .Exited Linear Regression Method of Model finder class
+2023-03-26/11:53:34		Entered the Random Forest method of model finder class
+2023-03-26/11:53:42		Random Forest Regress Best Params{'bootstrap': True, 'max_features': 'sqrt', 'min_samples_split': 2, 'n_estimators': 30} Exited Random Forest method from Model finder class
+2023-03-26/11:53:42		Entered the save model method of file operation class
+2023-03-26/11:53:42		Model FileLinearRegression2 saved. Exited the save mode method of file operation class
+2023-03-26/11:53:42		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:53:42		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:53:42		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:53:42		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:53:42		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-26/11:53:42		Entered the Linear Regression method of model finder class
+2023-03-26/11:53:42		Linear Regression best parameters {'copy_X': True, 'fit_intercept': True} .Exited Linear Regression Method of Model finder class
+2023-03-26/11:53:42		Entered the Random Forest method of model finder class
+2023-03-26/11:53:50		Random Forest Regress Best Params{'bootstrap': False, 'max_features': 'log2', 'min_samples_split': 2, 'n_estimators': 30} Exited Random Forest method from Model finder class
+2023-03-26/11:53:50		Entered the save model method of file operation class
+2023-03-26/11:53:50		Model FileRandomForestRegressor1 saved. Exited the save mode method of file operation class
+2023-03-26/11:53:50		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:53:50		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:53:50		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:53:50		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:53:50		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-26/11:53:50		Entered the Linear Regression method of model finder class
+2023-03-26/11:53:50		Linear Regression best parameters {'copy_X': True, 'fit_intercept': True} .Exited Linear Regression Method of Model finder class
+2023-03-26/11:53:50		Entered the Random Forest method of model finder class
+2023-03-26/11:53:57		Random Forest Regress Best Params{'bootstrap': True, 'max_features': 'auto', 'min_samples_split': 4, 'n_estimators': 20} Exited Random Forest method from Model finder class
+2023-03-26/11:53:57		Entered the save model method of file operation class
+2023-03-26/11:53:57		Model FileLinearRegression0 saved. Exited the save mode method of file operation class
+2023-03-26/11:53:57		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:53:57		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:53:57		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:53:57		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:53:57		Entered Get best model method to find the best model between random forest regression and linear regression
+2023-03-26/11:53:57		Entered the Linear Regression method of model finder class
+2023-03-26/11:53:57		Linear Regression best parameters {'copy_X': True, 'fit_intercept': True} .Exited Linear Regression Method of Model finder class
+2023-03-26/11:53:57		Entered the Random Forest method of model finder class
+2023-03-26/11:54:04		Random Forest Regress Best Params{'bootstrap': True, 'max_features': 'auto', 'min_samples_split': 4, 'n_estimators': 30} Exited Random Forest method from Model finder class
+2023-03-26/11:54:04		Entered the save model method of file operation class
+2023-03-26/11:54:04		Model FileRandomForestRegressor3 saved. Exited the save mode method of file operation class
+2023-03-26/11:54:04		Successful end of training

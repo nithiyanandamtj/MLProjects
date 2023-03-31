@@ -1,0 +1,94 @@
+2023-03-25/20:15:49		Error while creating table not all arguments converted during string formatting
+2023-03-25/20:22:24		Error while creating table not all arguments converted during string formatting
+2023-03-25/20:25:13		Error while creating table not all arguments converted during string formatting
+2023-03-25/20:27:12		Entered CreateTableDB method
+2023-03-25/20:27:12		Error while creating table not all arguments converted during string formatting
+2023-03-25/20:29:43		Entered CreateTableDB method
+2023-03-25/20:29:43		No Tables Available, Need to create new table
+2023-03-25/20:29:43		Table created successfully
+2023-03-25/20:33:06		Entered CreateTableDB method
+2023-03-25/20:33:06		Tables Available, No need to create new table
+2023-03-25/20:34:55		Entered CreateTableDB method
+2023-03-25/20:34:55		Tables Available, No need to create new table
+2023-03-25/20:37:28		Entered CreateTableDB method
+2023-03-25/20:37:28		Tables Available, No need to create new table
+2023-03-25/20:41:41		Entered CreateTableDB method
+2023-03-25/20:41:41		Tables Available, No need to create new table
+2023-03-25/20:52:05		Entered CreateTableDB method
+2023-03-25/20:52:05		Tables Available, No need to create new table
+2023-03-25/21:19:59		Entered CreateTableDB method
+2023-03-25/21:19:59		Tables Available, No need to create new table
+2023-03-25/21:22:44		Entered CreateTableDB method
+2023-03-25/21:22:44		Tables Available, No need to create new table
+2023-03-25/21:28:16		Entered CreateTableDB method
+2023-03-25/21:28:16		Tables Available, No need to create new table
+2023-03-25/21:29:54		Entered CreateTableDB method
+2023-03-25/21:29:54		Tables Available, No need to create new table
+2023-03-25/21:35:46		Entered CreateTableDB method
+2023-03-25/21:35:46		Tables Available, No need to create new table
+2023-03-25/21:38:20		Entered CreateTableDB method
+2023-03-25/21:38:20		Tables Available, No need to create new table
+2023-03-25/21:44:35		Entered CreateTableDB method
+2023-03-25/21:44:35		Tables Available, No need to create new table
+2023-03-25/21:46:20		Entered CreateTableDB method
+2023-03-25/21:46:20		Tables Available, No need to create new table
+2023-03-25/21:49:39		Entered CreateTableDB method
+2023-03-25/21:49:39		Tables Available, No need to create new table
+2023-03-25/21:54:02		Entered CreateTableDB method
+2023-03-25/21:54:02		Tables Available, No need to create new table
+2023-03-25/21:55:00		Entered CreateTableDB method
+2023-03-25/21:55:00		Tables Available, No need to create new table
+2023-03-25/21:58:30		Entered CreateTableDB method
+2023-03-25/21:58:30		Tables Available, No need to create new table
+2023-03-25/21:59:29		Entered CreateTableDB method
+2023-03-25/21:59:29		Tables Available, No need to create new table
+2023-03-25/22:03:05		Entered CreateTableDB method
+2023-03-25/22:03:05		Tables Available, No need to create new table
+2023-03-25/22:04:25		Entered CreateTableDB method
+2023-03-25/22:04:25		Tables Available, No need to create new table
+2023-03-25/22:12:12		Entered CreateTableDB method
+2023-03-25/22:12:12		No Tables Available, Need to create new table
+2023-03-25/22:12:12		Table created successfully
+2023-03-25/22:21:44		Entered CreateTableDB method
+2023-03-25/22:21:44		Tables Available, No need to create new table
+2023-03-25/22:29:44		Entered CreateTableDB method
+2023-03-25/22:29:44		Tables Available, No need to create new table
+2023-03-25/22:31:15		Entered CreateTableDB method
+2023-03-25/22:31:15		Tables Available, No need to create new table
+2023-03-25/22:35:09		Entered CreateTableDB method
+2023-03-25/22:35:09		Tables Available, No need to create new table
+2023-03-25/22:39:11		Entered CreateTableDB method
+2023-03-25/22:39:11		Tables Available, No need to create new table
+2023-03-25/22:43:13		Entered CreateTableDB method
+2023-03-25/22:43:13		Tables Available, No need to create new table
+2023-03-25/22:51:58		Entered CreateTableDB method
+2023-03-25/22:51:59		Tables Available, No need to create new table
+2023-03-25/22:53:48		Entered CreateTableDB method
+2023-03-25/22:53:48		Tables Available, No need to create new table
+2023-03-25/22:56:33		Entered CreateTableDB method
+2023-03-25/22:56:33		Tables Available, No need to create new table
+2023-03-25/23:03:36		Entered CreateTableDB method
+2023-03-25/23:03:36		Tables Available, No need to create new table
+2023-03-25/23:09:39		Entered CreateTableDB method
+2023-03-25/23:09:39		Tables Available, No need to create new table
+2023-03-25/23:15:09		Entered CreateTableDB method
+2023-03-25/23:15:09		Tables Available, No need to create new table
+2023-03-25/23:16:27		Entered CreateTableDB method
+2023-03-25/23:16:27		Tables Available, No need to create new table
+2023-03-25/23:20:08		Entered CreateTableDB method
+2023-03-25/23:20:08		Tables Available, No need to create new table
+2023-03-26/11:36:41		Entered CreateTableDB method
+2023-03-26/11:36:41		Tables Available, No need to create new table
+2023-03-26/11:42:17		Entered CreateTableDB method
+2023-03-26/11:42:17		Tables Available, No need to create new table
+2023-03-26/11:46:45		Entered CreateTableDB method
+2023-03-26/11:46:45		No Tables Available, Need to create new table
+2023-03-26/11:46:45		Table created successfully
+2023-03-26/11:47:10		Entered CreateTableDB method
+2023-03-26/11:47:10		Tables Available, No need to create new table
+2023-03-26/11:50:27		Entered CreateTableDB method
+2023-03-26/11:50:27		No Tables Available, Need to create new table
+2023-03-26/11:50:27		Table created successfully
+2023-03-26/11:53:16		Entered CreateTableDB method
+2023-03-26/11:53:16		No Tables Available, Need to create new table
+2023-03-26/11:53:16		Table created successfully

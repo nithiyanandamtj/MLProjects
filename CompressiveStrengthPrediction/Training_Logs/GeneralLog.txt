@@ -1,0 +1,122 @@
+2023-03-25/20:15:49		Good_Raw_Folder_Nithi_Created
+2023-03-25/20:22:24		Good_Raw_Folder_Nithi_Created
+2023-03-25/20:25:13		Good_Raw_Folder_Nithi_Created
+2023-03-25/20:27:12		Good_Raw_Folder_Nithi_Created
+2023-03-25/20:29:43		Good_Raw_Folder_Nithi_Created
+2023-03-25/20:33:06		Good_Raw_Folder_Nithi_Created
+2023-03-25/20:34:55		Good_Raw_Folder_Nithi_Created
+2023-03-25/20:34:55		Bad Files moved to Archive
+2023-03-25/20:34:55		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/20:37:28		Good_Raw_Folder_Nithi_Created
+2023-03-25/20:37:28		Bad Files moved to Archive
+2023-03-25/20:37:28		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/20:41:41		Good_Raw_Folder_Nithi_Created
+2023-03-25/20:41:41		Bad Files moved to Archive
+2023-03-25/20:41:41		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/20:52:05		Good_Raw_Folder_Nithi_Created
+2023-03-25/20:52:05		Bad Files moved to Archive
+2023-03-25/20:52:05		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/21:19:59		Good_Raw_Folder_Nithi_Created
+2023-03-25/21:19:59		Bad Files moved to Archive
+2023-03-25/21:19:59		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/21:22:44		Good_Raw_Folder_Nithi_Created
+2023-03-25/21:22:44		Bad Files moved to Archive
+2023-03-25/21:22:44		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/21:28:15		Good_Raw_Folder_Nithi_Created
+2023-03-25/21:28:16		Bad Files moved to Archive
+2023-03-25/21:28:16		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/21:29:54		Good_Raw_Folder_Nithi_Created
+2023-03-25/21:29:54		Bad Files moved to Archive
+2023-03-25/21:29:54		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/21:35:45		Good_Raw_Folder_Nithi_Created
+2023-03-25/21:35:46		Bad Files moved to Archive
+2023-03-25/21:35:46		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/21:38:20		Good_Raw_Folder_Nithi_Created
+2023-03-25/21:38:21		Bad Files moved to Archive
+2023-03-25/21:38:21		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/21:44:35		Good_Raw_Folder_Nithi_Created
+2023-03-25/21:44:35		Bad Files moved to Archive
+2023-03-25/21:44:35		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/21:46:20		Good_Raw_Folder_Nithi_Created
+2023-03-25/21:46:35		Bad Files moved to Archive
+2023-03-25/21:46:35		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/21:49:38		Good_Raw_Folder_Nithi_Created
+2023-03-25/21:49:53		Bad Files moved to Archive
+2023-03-25/21:49:53		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/21:54:02		Good_Raw_Folder_Nithi_Created
+2023-03-25/21:54:18		Bad Files moved to Archive
+2023-03-25/21:54:18		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/21:55:00		Good_Raw_Folder_Nithi_Created
+2023-03-25/21:55:15		Bad Files moved to Archive
+2023-03-25/21:55:15		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/21:58:30		Good_Raw_Folder_Nithi_Created
+2023-03-25/21:58:47		Bad Files moved to Archive
+2023-03-25/21:58:47		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/21:59:28		Good_Raw_Folder_Nithi_Created
+2023-03-25/21:59:45		Bad Files moved to Archive
+2023-03-25/21:59:45		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/22:03:05		Good_Raw_Folder_Nithi_Created
+2023-03-25/22:03:21		Bad Files moved to Archive
+2023-03-25/22:03:21		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/22:04:25		Good_Raw_Folder_Nithi_Created
+2023-03-25/22:04:42		Bad Files moved to Archive
+2023-03-25/22:04:42		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/22:12:12		Good_Raw_Folder_Nithi_Created
+2023-03-25/22:12:28		Bad Files moved to Archive
+2023-03-25/22:12:28		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/22:21:44		Good_Raw_Folder_Nithi_Created
+2023-03-25/22:21:59		Bad Files moved to Archive
+2023-03-25/22:21:59		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/22:29:44		Good_Raw_Folder_Nithi_Created
+2023-03-25/22:29:59		Bad Files moved to Archive
+2023-03-25/22:29:59		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/22:31:15		Good_Raw_Folder_Nithi_Created
+2023-03-25/22:31:30		Bad Files moved to Archive
+2023-03-25/22:31:30		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/22:35:09		Good_Raw_Folder_Nithi_Created
+2023-03-25/22:35:25		Bad Files moved to Archive
+2023-03-25/22:35:25		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/22:39:11		Good_Raw_Folder_Nithi_Created
+2023-03-25/22:39:26		Bad Files moved to Archive
+2023-03-25/22:39:26		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/22:43:13		Good_Raw_Folder_Nithi_Created
+2023-03-25/22:43:29		Bad Files moved to Archive
+2023-03-25/22:43:29		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/22:51:58		Good_Raw_Folder_Nithi_Created
+2023-03-25/22:52:14		Bad Files moved to Archive
+2023-03-25/22:52:14		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/22:53:48		Good_Raw_Folder_Nithi_Created
+2023-03-25/22:54:03		Bad Files moved to Archive
+2023-03-25/22:54:03		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/22:56:33		Good_Raw_Folder_Nithi_Created
+2023-03-25/22:56:50		Bad Files moved to Archive
+2023-03-25/22:56:50		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/23:03:36		Good_Raw_Folder_Nithi_Created
+2023-03-25/23:03:52		Bad Files moved to Archive
+2023-03-25/23:03:52		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/23:09:39		Good_Raw_Folder_Nithi_Created
+2023-03-25/23:09:53		Bad Files moved to Archive
+2023-03-25/23:09:53		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/23:15:08		Good_Raw_Folder_Nithi_Created
+2023-03-25/23:15:24		Bad Files moved to Archive
+2023-03-25/23:15:24		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/23:16:27		Good_Raw_Folder_Nithi_Created
+2023-03-25/23:16:43		Bad Files moved to Archive
+2023-03-25/23:16:43		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-25/23:20:08		Good_Raw_Folder_Nithi_Created
+2023-03-25/23:20:24		Bad Files moved to Archive
+2023-03-25/23:20:24		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-26/11:36:41		Good_Raw_Folder_Nithi_Created
+2023-03-26/11:36:57		Bad Files moved to Archive
+2023-03-26/11:36:57		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-26/11:42:17		Good_Raw_Folder_Nithi_Created
+2023-03-26/11:42:33		Bad Files moved to Archive
+2023-03-26/11:42:33		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-26/11:46:45		Good_Raw_Folder_Nithi_Created
+2023-03-26/11:47:10		Good_Raw_Folder_Nithi_Created
+2023-03-26/11:47:27		Bad Files moved to Archive
+2023-03-26/11:47:27		Bad Raw Data_Preprocessing Folder Deleted Successfully
+2023-03-26/11:50:27		Good_Raw_Folder_Nithi_Created
+2023-03-26/11:53:16		Good_Raw_Folder_Nithi_Created
+2023-03-26/11:53:33		Bad Files moved to Archive
+2023-03-26/11:53:33		Bad Raw Data_Preprocessing Folder Deleted Successfully

@@ -1,0 +1,5 @@
+2023-03-25/20:34:55		File Exporting Failes. Error: 'delimeter' is an invalid keyword argument for this function
+2023-03-25/20:37:28		File Exported Successfully
+2023-03-25/20:41:41		File Exported Successfully
+2023-03-25/20:52:05		File Exported Successfully
+2023-03-25/21:19:59		File Exported Successfully

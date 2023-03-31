@@ -1,0 +1,9 @@
+
+applications:
+  name: compressivestrengthprediction
+  memory: 2GB
+  disk_quota: 1GB
+  random-quote: true
+  parameters:
+    memory: 2GB
+    buildpack: 'python_buildpack'

@@ -1,0 +1,68 @@
+2023-03-25/19:45:41		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 9
+
+2023-03-26/08:29:52		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 9
+
+2023-03-26/08:36:51		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 9
+
+2023-03-26/08:39:53		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 9
+
+2023-03-26/08:40:43		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 9
+
+2023-03-26/08:43:08		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 9
+
+2023-03-26/08:49:01		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 9
+
+2023-03-26/08:55:36		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 9
+
+2023-03-26/09:01:47		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 9
+
+2023-03-26/09:06:16		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 9
+
+2023-03-26/09:06:49		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 9
+
+2023-03-26/09:08:48		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 9
+
+2023-03-26/09:16:21		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 9
+
+2023-03-26/09:25:02		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 9
+
+2023-03-26/09:26:05		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 9
+
+2023-03-26/09:34:47		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 8
+
+2023-03-26/09:46:24		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 8
+
+2023-03-26/09:48:27		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 8
+
+2023-03-26/09:50:48		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 8
+
+2023-03-26/10:17:05		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 8
+
+2023-03-26/10:18:56		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 8
+
+2023-03-26/10:19:49		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 8
+
+2023-03-26/10:21:39		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 8
+
+2023-03-26/10:32:32		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 8
+
+2023-03-26/11:55:17		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 8
+
+2023-03-28/10:59:37		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 8
+
+2023-03-28/11:00:37		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 8
+
+2023-03-28/11:01:27		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 8
+
+2023-03-28/11:03:14		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 8
+
+2023-03-28/20:28:32		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 8
+
+2023-03-28/20:32:02		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 8
+
+2023-03-28/20:33:34		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 8
+
+2023-03-28/20:34:01		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 8
+
+2023-03-31/10:49:37		LengthOfDateStampInFile: 8	LengthOfTimeStampInFile: 6	NumberOfColumns: 8
+

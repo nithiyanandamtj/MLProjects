@@ -1,0 +1,303 @@
+2023-03-26/08:36:51		Start of Prediction
+2023-03-26/08:36:51		Error occured while running the prediction 'Data_Getter_Pred' object has no attribute 'logger_object'
+2023-03-26/08:40:43		Start of Prediction
+2023-03-26/08:40:43		Error occured while running the prediction 'Data_Getter_Pred' object has no attribute 'logger_object'
+2023-03-26/08:43:08		Start of Prediction
+2023-03-26/08:43:08		Entered the Get_Data method of Data_Getter class
+2023-03-26/08:43:08		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-26/08:43:08		Error occured while running the prediction __init__() missing 1 required positional argument: 'logger_object'
+2023-03-26/08:49:01		Start of Prediction
+2023-03-26/08:49:01		Entered the Get_Data method of Data_Getter class
+2023-03-26/08:49:01		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-26/08:49:01		Error occured while running the prediction __init__() missing 1 required positional argument: 'logger_object'
+2023-03-26/08:55:36		Start of Prediction
+2023-03-26/08:55:36		Entered the Get_Data method of Data_Getter class
+2023-03-26/08:55:36		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-26/08:55:36		Entered Is_Null_Present of the Preprocessor Class
+2023-03-26/08:55:36		Finding missing values is successful. Data written to the null values file
+2023-03-26/08:55:36		Entered LogTransformation method in preprocessor class
+2023-03-26/08:55:36		Exited LogTransformation method in preprocessor class
+2023-03-26/08:55:36		Entered StandardScalingData method in preprocessor class
+2023-03-26/08:55:36		Error occured while running the prediction Found array with 0 sample(s) (shape=(0, 8)) while a minimum of 1 is required by StandardScaler.
+2023-03-26/09:01:47		Start of Prediction
+2023-03-26/09:01:47		Entered the Get_Data method of Data_Getter class
+2023-03-26/09:01:47		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-26/09:01:47		Entered Is_Null_Present of the Preprocessor Class
+2023-03-26/09:01:47		Finding missing values is successful. Data written to the null values file
+2023-03-26/09:01:47		Entered LogTransformation method in preprocessor class
+2023-03-26/09:01:47		Exited LogTransformation method in preprocessor class
+2023-03-26/09:01:47		Entered StandardScalingData method in preprocessor class
+2023-03-26/09:01:47		1
+2023-03-26/09:01:47		Error occured while running the prediction Found array with 0 sample(s) (shape=(0, 8)) while a minimum of 1 is required by StandardScaler.
+2023-03-26/09:06:16		Start of Prediction
+2023-03-26/09:06:16		Entered the Get_Data method of Data_Getter class
+2023-03-26/09:06:16		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-26/09:06:16		Entered Is_Null_Present of the Preprocessor Class
+2023-03-26/09:06:16		Finding missing values is successful. Data written to the null values file
+2023-03-26/09:06:16		Entered LogTransformation method in preprocessor class
+2023-03-26/09:06:16		Exited LogTransformation method in preprocessor class
+2023-03-26/09:06:16		Error occured while running the prediction module 'pandas' has no attribute 'Dataframe'
+2023-03-26/09:06:49		Start of Prediction
+2023-03-26/09:06:49		Entered the Get_Data method of Data_Getter class
+2023-03-26/09:06:49		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-26/09:06:49		Entered Is_Null_Present of the Preprocessor Class
+2023-03-26/09:06:49		Finding missing values is successful. Data written to the null values file
+2023-03-26/09:06:49		Entered LogTransformation method in preprocessor class
+2023-03-26/09:06:49		Exited LogTransformation method in preprocessor class
+2023-03-26/09:06:49		Entered StandardScalingData method in preprocessor class
+2023-03-26/09:06:49		1
+2023-03-26/09:06:49		Error occured while running the prediction Found array with 0 sample(s) (shape=(0, 8)) while a minimum of 1 is required by StandardScaler.
+2023-03-26/09:08:48		Start of Prediction
+2023-03-26/09:08:48		Entered the Get_Data method of Data_Getter class
+2023-03-26/09:08:48		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-26/09:08:48		Entered Is_Null_Present of the Preprocessor Class
+2023-03-26/09:08:48		Finding missing values is successful. Data written to the null values file
+2023-03-26/09:08:48		Entered LogTransformation method in preprocessor class
+2023-03-26/09:08:48		Exited LogTransformation method in preprocessor class
+2023-03-26/09:08:48		Entered StandardScalingData method in preprocessor class
+2023-03-26/09:08:48		1
+2023-03-26/09:08:48		Error occured while running the prediction Found array with 0 sample(s) (shape=(0, 8)) while a minimum of 1 is required by StandardScaler.
+2023-03-26/09:16:22		Start of Prediction
+2023-03-26/09:16:22		Entered the Get_Data method of Data_Getter class
+2023-03-26/09:16:22		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-26/09:16:22		Entered Is_Null_Present of the Preprocessor Class
+2023-03-26/09:16:22		Finding missing values is successful. Data written to the null values file
+2023-03-26/09:16:22		Entered LogTransformation method in preprocessor class
+2023-03-26/09:16:22		Exited LogTransformation method in preprocessor class
+2023-03-26/09:16:22		Entered StandardScalingData method in preprocessor class
+2023-03-26/09:16:22		1
+2023-03-26/09:16:22		Error occured while running the prediction Found array with 0 sample(s) (shape=(0, 8)) while a minimum of 1 is required by StandardScaler.
+2023-03-26/09:25:02		Start of Prediction
+2023-03-26/09:25:02		Entered the Get_Data method of Data_Getter class
+2023-03-26/09:25:02		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-26/09:25:02		Entered Is_Null_Present of the Preprocessor Class
+2023-03-26/09:25:02		Finding missing values is successful. Data written to the null values file
+2023-03-26/09:25:02		Entered LogTransformation method in preprocessor class
+2023-03-26/09:25:02		Exited LogTransformation method in preprocessor class
+2023-03-26/09:25:02		Entered StandardScalingData method in preprocessor class
+2023-03-26/09:25:02		1
+2023-03-26/09:25:02		Error occured while running the prediction Found array with 0 sample(s) (shape=(0, 8)) while a minimum of 1 is required by StandardScaler.
+2023-03-26/09:26:05		Start of Prediction
+2023-03-26/09:26:05		Entered the Get_Data method of Data_Getter class
+2023-03-26/09:26:05		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-26/09:26:05		Entered Is_Null_Present of the Preprocessor Class
+2023-03-26/09:26:05		Finding missing values is successful. Data written to the null values file
+2023-03-26/09:26:05		Entered LogTransformation method in preprocessor class
+2023-03-26/09:26:05		Exited LogTransformation method in preprocessor class
+2023-03-26/09:26:05		Entered StandardScalingData method in preprocessor class
+2023-03-26/09:26:05		1
+2023-03-26/09:26:05		Error occured while running the prediction Found array with 0 sample(s) (shape=(0, 8)) while a minimum of 1 is required by StandardScaler.
+2023-03-26/10:21:44		Start of Prediction
+2023-03-26/10:21:44		Entered the Get_Data method of Data_Getter class
+2023-03-26/10:21:44		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-26/10:21:44		Entered Is_Null_Present of the Preprocessor Class
+2023-03-26/10:21:44		Finding missing values is successful. Data written to the null values file
+2023-03-26/10:21:44		Entered LogTransformation method in preprocessor class
+2023-03-26/10:21:44		Exited LogTransformation method in preprocessor class
+2023-03-26/10:21:44		Entered StandardScalingData method in preprocessor class
+2023-03-26/10:21:44		1
+2023-03-26/10:21:44		2
+2023-03-26/10:21:44		Exited StandardScalingData method in preprocessor class
+2023-03-26/10:21:44		Entered load model method of file operation class
+2023-03-26/10:21:44		Model fileKMeans loaded
+2023-03-26/10:21:44		Error occured while running the prediction The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- CementComponent_1
+Feature names seen at fit time, yet now missing:
+- CementComponent_1FLOAT
+
+2023-03-26/10:32:37		Start of Prediction
+2023-03-26/10:32:37		Entered the Get_Data method of Data_Getter class
+2023-03-26/10:32:37		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-26/10:32:37		Entered Is_Null_Present of the Preprocessor Class
+2023-03-26/10:32:37		Finding missing values is successful. Data written to the null values file
+2023-03-26/10:32:37		Entered LogTransformation method in preprocessor class
+2023-03-26/10:32:37		Exited LogTransformation method in preprocessor class
+2023-03-26/10:32:37		Entered StandardScalingData method in preprocessor class
+2023-03-26/10:32:37		1
+2023-03-26/10:32:37		2
+2023-03-26/10:32:37		Exited StandardScalingData method in preprocessor class
+2023-03-26/10:32:37		Entered load model method of file operation class
+2023-03-26/10:32:37		Model fileKMeans loaded
+2023-03-26/10:32:37		Error occured while running the prediction The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- CementComponent_1
+Feature names seen at fit time, yet now missing:
+- CementComponent_1FLOAT
+
+2023-03-26/11:55:21		Start of Prediction
+2023-03-26/11:55:21		Entered the Get_Data method of Data_Getter class
+2023-03-26/11:55:21		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-26/11:55:21		Entered Is_Null_Present of the Preprocessor Class
+2023-03-26/11:55:21		Finding missing values is successful. Data written to the null values file
+2023-03-26/11:55:21		Entered LogTransformation method in preprocessor class
+2023-03-26/11:55:21		Exited LogTransformation method in preprocessor class
+2023-03-26/11:55:21		Entered StandardScalingData method in preprocessor class
+2023-03-26/11:55:21		Exited StandardScalingData method in preprocessor class
+2023-03-26/11:55:21		Entered load model method of file operation class
+2023-03-26/11:55:21		Model fileKMeans loaded
+2023-03-26/11:55:21		Entered Find Correct Model File of File operations class
+2023-03-26/11:55:21		Exited the Find correct model file method in file operation class
+2023-03-26/11:55:21		Entered load model method of file operation class
+2023-03-26/11:55:21		Model fileRandomForestRegressor2 loaded
+2023-03-26/11:55:21		End of prediction
+2023-03-28/10:57:15		Start of Prediction
+2023-03-28/10:57:15		Entered the Get_Data method of Data_Getter class
+2023-03-28/10:57:15		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-28/10:57:15		Entered Is_Null_Present of the Preprocessor Class
+2023-03-28/10:57:15		Finding missing values is successful. Data written to the null values file
+2023-03-28/10:57:15		Entered LogTransformation method in preprocessor class
+2023-03-28/10:57:15		Exited LogTransformation method in preprocessor class
+2023-03-28/10:57:15		Entered StandardScalingData method in preprocessor class
+2023-03-28/10:57:15		Exited StandardScalingData method in preprocessor class
+2023-03-28/10:57:15		Entered load model method of file operation class
+2023-03-28/10:57:15		Model fileKMeans loaded
+2023-03-28/10:57:15		Entered Find Correct Model File of File operations class
+2023-03-28/10:57:15		Exited the Find correct model file method in file operation class
+2023-03-28/10:57:15		Entered load model method of file operation class
+2023-03-28/10:57:15		Model fileRandomForestRegressor2 loaded
+2023-03-28/10:57:15		End of prediction
+2023-03-28/10:59:40		Start of Prediction
+2023-03-28/10:59:40		Entered the Get_Data method of Data_Getter class
+2023-03-28/10:59:40		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-28/10:59:40		Entered Is_Null_Present of the Preprocessor Class
+2023-03-28/10:59:40		Finding missing values is successful. Data written to the null values file
+2023-03-28/10:59:40		Entered LogTransformation method in preprocessor class
+2023-03-28/10:59:40		Exited LogTransformation method in preprocessor class
+2023-03-28/10:59:40		Entered StandardScalingData method in preprocessor class
+2023-03-28/10:59:40		Exited StandardScalingData method in preprocessor class
+2023-03-28/10:59:40		Entered load model method of file operation class
+2023-03-28/10:59:40		Model fileKMeans loaded
+2023-03-28/10:59:41		Entered Find Correct Model File of File operations class
+2023-03-28/10:59:41		Exited the Find correct model file method in file operation class
+2023-03-28/10:59:41		Entered load model method of file operation class
+2023-03-28/10:59:41		Model fileRandomForestRegressor2 loaded
+2023-03-28/10:59:41		End of prediction
+2023-03-28/11:00:41		Start of Prediction
+2023-03-28/11:00:41		Entered the Get_Data method of Data_Getter class
+2023-03-28/11:00:41		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-28/11:00:41		Entered Is_Null_Present of the Preprocessor Class
+2023-03-28/11:00:41		Finding missing values is successful. Data written to the null values file
+2023-03-28/11:00:41		Entered LogTransformation method in preprocessor class
+2023-03-28/11:00:41		Exited LogTransformation method in preprocessor class
+2023-03-28/11:00:41		Entered StandardScalingData method in preprocessor class
+2023-03-28/11:00:41		Exited StandardScalingData method in preprocessor class
+2023-03-28/11:00:41		Entered load model method of file operation class
+2023-03-28/11:00:41		Model fileKMeans loaded
+2023-03-28/11:00:41		Entered Find Correct Model File of File operations class
+2023-03-28/11:00:41		Exited the Find correct model file method in file operation class
+2023-03-28/11:00:41		Entered load model method of file operation class
+2023-03-28/11:00:41		Model fileRandomForestRegressor2 loaded
+2023-03-28/11:00:41		End of prediction
+2023-03-28/11:01:31		Start of Prediction
+2023-03-28/11:01:31		Entered the Get_Data method of Data_Getter class
+2023-03-28/11:01:31		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-28/11:01:31		Entered Is_Null_Present of the Preprocessor Class
+2023-03-28/11:01:31		Finding missing values is successful. Data written to the null values file
+2023-03-28/11:01:31		Entered LogTransformation method in preprocessor class
+2023-03-28/11:01:31		Exited LogTransformation method in preprocessor class
+2023-03-28/11:01:31		Entered StandardScalingData method in preprocessor class
+2023-03-28/11:01:31		Exited StandardScalingData method in preprocessor class
+2023-03-28/11:01:31		Entered load model method of file operation class
+2023-03-28/11:01:31		Model fileKMeans loaded
+2023-03-28/11:01:31		Entered Find Correct Model File of File operations class
+2023-03-28/11:01:31		Exited the Find correct model file method in file operation class
+2023-03-28/11:01:31		Entered load model method of file operation class
+2023-03-28/11:01:31		Model fileRandomForestRegressor2 loaded
+2023-03-28/11:01:31		End of prediction
+2023-03-28/11:03:18		Start of Prediction
+2023-03-28/11:03:18		Entered the Get_Data method of Data_Getter class
+2023-03-28/11:03:18		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-28/11:03:18		Entered Is_Null_Present of the Preprocessor Class
+2023-03-28/11:03:18		Finding missing values is successful. Data written to the null values file
+2023-03-28/11:03:18		Entered LogTransformation method in preprocessor class
+2023-03-28/11:03:18		Exited LogTransformation method in preprocessor class
+2023-03-28/11:03:18		Entered StandardScalingData method in preprocessor class
+2023-03-28/11:03:18		Exited StandardScalingData method in preprocessor class
+2023-03-28/11:03:18		Entered load model method of file operation class
+2023-03-28/11:03:18		Model fileKMeans loaded
+2023-03-28/11:03:18		Entered Find Correct Model File of File operations class
+2023-03-28/11:03:18		Exited the Find correct model file method in file operation class
+2023-03-28/11:03:18		Entered load model method of file operation class
+2023-03-28/11:03:18		Model fileRandomForestRegressor2 loaded
+2023-03-28/11:03:18		End of prediction
+2023-03-28/20:28:36		Start of Prediction
+2023-03-28/20:28:36		Entered the Get_Data method of Data_Getter class
+2023-03-28/20:28:36		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-28/20:28:36		Entered Is_Null_Present of the Preprocessor Class
+2023-03-28/20:28:36		Finding missing values is successful. Data written to the null values file
+2023-03-28/20:28:36		Entered LogTransformation method in preprocessor class
+2023-03-28/20:28:36		Exited LogTransformation method in preprocessor class
+2023-03-28/20:28:36		Entered StandardScalingData method in preprocessor class
+2023-03-28/20:28:36		Exited StandardScalingData method in preprocessor class
+2023-03-28/20:28:36		Entered load model method of file operation class
+2023-03-28/20:28:36		Model fileKMeans loaded
+2023-03-28/20:28:36		Entered Find Correct Model File of File operations class
+2023-03-28/20:28:36		Exited the Find correct model file method in file operation class
+2023-03-28/20:28:36		Entered load model method of file operation class
+2023-03-28/20:28:36		Model fileRandomForestRegressor2 loaded
+2023-03-28/20:28:36		End of prediction
+2023-03-28/20:32:06		Start of Prediction
+2023-03-28/20:32:06		Entered the Get_Data method of Data_Getter class
+2023-03-28/20:32:06		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-28/20:32:06		Entered Is_Null_Present of the Preprocessor Class
+2023-03-28/20:32:06		Finding missing values is successful. Data written to the null values file
+2023-03-28/20:32:06		Entered LogTransformation method in preprocessor class
+2023-03-28/20:32:06		Exited LogTransformation method in preprocessor class
+2023-03-28/20:32:06		Entered StandardScalingData method in preprocessor class
+2023-03-28/20:32:06		Exited StandardScalingData method in preprocessor class
+2023-03-28/20:32:06		Entered load model method of file operation class
+2023-03-28/20:32:06		Model fileKMeans loaded
+2023-03-28/20:32:06		Entered Find Correct Model File of File operations class
+2023-03-28/20:32:06		Exited the Find correct model file method in file operation class
+2023-03-28/20:32:06		Entered load model method of file operation class
+2023-03-28/20:32:06		Model fileRandomForestRegressor2 loaded
+2023-03-28/20:32:06		End of prediction
+2023-03-28/20:33:38		Start of Prediction
+2023-03-28/20:33:38		Entered the Get_Data method of Data_Getter class
+2023-03-28/20:33:38		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-28/20:33:38		Entered Is_Null_Present of the Preprocessor Class
+2023-03-28/20:33:38		Finding missing values is successful. Data written to the null values file
+2023-03-28/20:33:38		Entered LogTransformation method in preprocessor class
+2023-03-28/20:33:38		Exited LogTransformation method in preprocessor class
+2023-03-28/20:33:38		Entered StandardScalingData method in preprocessor class
+2023-03-28/20:33:38		Exited StandardScalingData method in preprocessor class
+2023-03-28/20:33:38		Entered load model method of file operation class
+2023-03-28/20:33:38		Model fileKMeans loaded
+2023-03-28/20:33:38		Entered Find Correct Model File of File operations class
+2023-03-28/20:33:38		Exited the Find correct model file method in file operation class
+2023-03-28/20:33:38		Entered load model method of file operation class
+2023-03-28/20:33:38		Model fileRandomForestRegressor2 loaded
+2023-03-28/20:33:38		End of prediction
+2023-03-28/20:34:05		Start of Prediction
+2023-03-28/20:34:05		Entered the Get_Data method of Data_Getter class
+2023-03-28/20:34:05		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-28/20:34:05		Entered Is_Null_Present of the Preprocessor Class
+2023-03-28/20:34:05		Finding missing values is successful. Data written to the null values file
+2023-03-28/20:34:05		Entered LogTransformation method in preprocessor class
+2023-03-28/20:34:05		Exited LogTransformation method in preprocessor class
+2023-03-28/20:34:05		Entered StandardScalingData method in preprocessor class
+2023-03-28/20:34:05		Exited StandardScalingData method in preprocessor class
+2023-03-28/20:34:05		Entered load model method of file operation class
+2023-03-28/20:34:05		Model fileKMeans loaded
+2023-03-28/20:34:05		Entered Find Correct Model File of File operations class
+2023-03-28/20:34:05		Exited the Find correct model file method in file operation class
+2023-03-28/20:34:05		Entered load model method of file operation class
+2023-03-28/20:34:05		Model fileRandomForestRegressor2 loaded
+2023-03-28/20:34:05		End of prediction
+2023-03-31/10:49:43		Start of Prediction
+2023-03-31/10:49:43		Entered the Get_Data method of Data_Getter class
+2023-03-31/10:49:43		Data_Preprocessing loaded successfully in Get_Data method from Data_Getter class
+2023-03-31/10:49:43		Entered Is_Null_Present of the Preprocessor Class
+2023-03-31/10:49:43		Finding missing values is successful. Data written to the null values file
+2023-03-31/10:49:43		Entered LogTransformation method in preprocessor class
+2023-03-31/10:49:43		Exited LogTransformation method in preprocessor class
+2023-03-31/10:49:43		Entered StandardScalingData method in preprocessor class
+2023-03-31/10:49:43		Exited StandardScalingData method in preprocessor class
+2023-03-31/10:49:43		Entered load model method of file operation class
+2023-03-31/10:49:43		Model fileKMeans loaded
+2023-03-31/10:49:43		Entered Find Correct Model File of File operations class
+2023-03-31/10:49:43		Exited the Find correct model file method in file operation class
+2023-03-31/10:49:43		Entered load model method of file operation class
+2023-03-31/10:49:43		Model fileRandomForestRegressor2 loaded
+2023-03-31/10:49:43		End of prediction
